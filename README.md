@@ -76,4 +76,4 @@ streamlit run app.py
 *   Deploy as a REST API using FastAPI for bulk predictions.
 
 ---
-*Created by [Your Name] as part of the Agentic Data Science Portfolio.*
+*Created by Leonardo Quiroga Gil as part of the Agentic Data Science Portfolio.*
