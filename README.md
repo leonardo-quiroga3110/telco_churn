@@ -89,4 +89,4 @@ python src/evaluate.py
 All plots seen here are auto-generated in the `plots/` directory upon running `eda.py` and `evaluate.py`.
 
 ---
-*Built with 💙 by [Your Name] for the Agentic Data Science Portfolio.*
+*Built with 💙 by Leonardo Quiroga Gil for the Agentic Data Science Portfolio.*
