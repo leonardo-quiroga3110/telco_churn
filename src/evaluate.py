@@ -56,12 +56,14 @@ def evaluate_models(data_dir="data/processed", model_dir="models"):
         })
 
         # Plot Confusion Matrix
-        plt.figure(figsize=(5, 4))
-        sns.heatmap(confusion_matrix(y_test, preds), annot=True, fmt='d', cmap='Blues')
-        plt.title(f'Confusion Matrix - {name}')
-        plt.xlabel('Predicted')
-        plt.ylabel('Actual')
-        plt.savefig(f'plots/confusion_matrix_{name.lower()}.png')
+        plt.figure(figsize=(6, 5))
+        sns.heatmap(confusion_matrix(y_test, preds), annot=True, fmt='d', cmap='Blues', cbar=False,
+                    annot_kws={'size': 14, 'weight': 'bold'})
+        plt.title(f'Confusion Matrix\n{name}', fontsize=14, fontweight='bold', pad=15)
+        plt.xlabel('Predicted Label', fontsize=12)
+        plt.ylabel('Actual Label', fontsize=12)
+        plt.tight_layout()
+        plt.savefig(f'plots/confusion_matrix_{name.lower()}.png', dpi=300)
         plt.close()
 
     # Feature Importance (RandomForest)
@@ -73,10 +75,14 @@ def evaluate_models(data_dir="data/processed", model_dir="models"):
     feat_df = feat_df.sort_values(by='Importance', ascending=False).head(10)
     
     plt.figure(figsize=(10, 6))
-    sns.barplot(x='Importance', y='Feature', data=feat_df)
-    plt.title('Top 10 Feature Importances (Random Forest)')
+    sns.set_context("notebook", font_scale=1.1)
+    sns.barplot(x='Importance', y='Feature', data=feat_df, palette="viridis")
+    plt.title('Top 10 Feature Drivers of Churn', fontsize=16, fontweight='bold', pad=20)
+    plt.xlabel('Importance Score', fontsize=12)
+    plt.ylabel('')
+    sns.despine(left=True, bottom=True)
     plt.tight_layout()
-    plt.savefig('plots/feature_importance.png')
+    plt.savefig('plots/feature_importance.png', dpi=300)
     print("Saved plots/feature_importance.png")
     
     # Save Results CSV

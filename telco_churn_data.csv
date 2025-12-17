@@ -1,0 +1,1001 @@
+customerID,gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn
+2824-A859,Male,0,No,No,50,Yes,Yes,Fiber optic,No internet service,No,No,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),39.40918425720321,1982.2652379201752,Yes
+5506-A328,Female,0,No,Yes,46,No,No,DSL,No,No,No internet service,No internet service,No internet service,Yes,One year,Yes,Electronic check,52.29349692682492,2389.817945074304,No
+3286-C204,Male,0,No,Yes,3,Yes,No,DSL,No internet service,Yes,No internet service,Yes,No internet service,No internet service,One year,Yes,Electronic check,74.69897963114335,220.2858373448901,No
+9935-A704,Male,0,No,Yes,6,No,No,DSL,Yes,No internet service,Yes,No internet service,Yes,Yes,One year,No,Credit card (automatic),77.8578342216351,471.2120210554165,No
+7912-A130,Male,0,Yes,No,34,No,Yes,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),55.66763818131365,1873.7538948670765,Yes
+2535-A338,Female,0,Yes,No,47,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Bank transfer (automatic),46.39534716446393,2167.3674191631635,No
+9279-C127,Male,1,No,No,72,No,No phone service,Fiber optic,No,Yes,No internet service,No,No,No internet service,Two year,Yes,Credit card (automatic),45.756913263603884,3308.3185973294558,No
+4257-C765,Male,0,Yes,No,71,No,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),35.807284817800294,2542.915168126722,No
+9928-B325,Male,1,No,No,44,Yes,No phone service,DSL,No,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),50.95319871412351,2253.7077443580283,Yes
+8359-C384,Female,0,Yes,No,71,Yes,No,No,No,No internet service,No,No,No,No,Month-to-month,No,Bank transfer (automatic),38.293753869828606,2720.6774807167794,No
+1106-A814,Male,0,No,No,18,No,Yes,No,No internet service,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),81.94844832610946,1499.6310342399186,Yes
+7924-B384,Male,0,No,Yes,62,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Credit card (automatic),75.44123332333001,4681.743788878414,No
+3547-A881,Male,1,Yes,No,37,No,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No internet service,Yes,One year,Yes,Credit card (automatic),56.700176778927464,2110.604330224665,No
+6514-A194,Male,1,Yes,Yes,66,No,No,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),50.99591700370814,3363.2696578798345,No
+7224-A467,Female,0,No,Yes,58,Yes,No phone service,Fiber optic,No,No,Yes,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),42.130227119561575,2445.6604690187546,No
+6635-C370,Male,0,No,No,68,Yes,No phone service,DSL,Yes,No internet service,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),72.0635600504138,4906.740791202428,No
+1711-C570,Female,0,Yes,No,12,Yes,No,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,No,Mailed check,110.59972781674168,1335.2747983863533,Yes
+9785-A487,Female,0,Yes,Yes,46,Yes,No phone service,DSL,Yes,No internet service,No internet service,No,No,Yes,Two year,Yes,Electronic check,87.16315666458819,4009.1152972071964,No
+2291-C400,Female,1,No,Yes,60,No,No phone service,DSL,Yes,No,No,Yes,Yes,Yes,Two year,No,Electronic check,93.06367876057452,5583.84816953139,No
+6925-C296,Male,0,Yes,No,30,No,No phone service,No,Yes,No,Yes,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),102.10497529746898,3068.1684565044743,No
+2139-A777,Female,0,No,No,21,Yes,Yes,No,No,Yes,Yes,No internet service,No,Yes,One year,No,Electronic check,53.5893148204538,1130.3882424510318,No
+4733-B181,Male,0,No,Yes,42,Yes,No phone service,No,No internet service,No internet service,No,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),24.569016102506005,1021.6480923293617,No
+4814-A489,Female,1,No,No,66,No,Yes,DSL,No internet service,Yes,Yes,No,No,Yes,Month-to-month,Yes,Credit card (automatic),80.81715973382525,5336.182153949293,No
+5554-B750,Female,1,No,No,53,No,No,DSL,No,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,37.21156526841728,1975.4206984931002,No
+6977-A479,Female,0,Yes,No,9,No,No phone service,DSL,No internet service,No internet service,No internet service,Yes,No,No,Two year,No,Electronic check,75.43888682456446,669.1867998480485,No
+6820-A786,Female,0,Yes,Yes,41,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,No,Electronic check,92.57077843228501,3804.4611840527723,No
+5374-C799,Female,0,Yes,Yes,63,Yes,No phone service,DSL,No internet service,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),97.00564936585758,6115.483356281247,No
+2169-C750,Female,0,Yes,Yes,20,No,No,No,No,Yes,No,No,No internet service,No,Month-to-month,No,Mailed check,48.5848315848753,995.0031248321975,No
+3803-C846,Female,0,Yes,No,65,No,Yes,No,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,69.74953987321618,4533.459956635008,No
+5010-A573,Female,1,Yes,No,40,Yes,Yes,DSL,No,No internet service,Yes,No internet service,No internet service,Yes,Two year,Yes,Mailed check,80.65699217585782,3237.6407978746397,No
+7216-B755,Male,0,Yes,Yes,23,No,No phone service,DSL,Yes,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.6078125309125,2319.3709439262966,No
+4598-C432,Male,1,No,Yes,34,No,No,No,Yes,No,No internet service,No,No internet service,Yes,Two year,No,Electronic check,94.76956084304722,3241.379463929138,No
+1916-A941,Female,1,Yes,Yes,55,Yes,No,DSL,No internet service,Yes,No,No,No,Yes,Month-to-month,No,Electronic check,117.54151975822572,6455.083779128058,No
+1525-B510,Female,0,Yes,No,29,Yes,No,No,Yes,No,No internet service,Yes,No,No,Month-to-month,Yes,Mailed check,19.062509991266094,547.8596496987154,No
+5386-A316,Female,0,No,Yes,56,Yes,No,Fiber optic,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),62.21768880674487,3474.83349866302,Yes
+6155-A771,Male,1,Yes,Yes,46,No,No,No,No internet service,Yes,No internet service,No internet service,Yes,No internet service,One year,Yes,Credit card (automatic),43.98247088080085,2022.4144844644404,No
+9179-B758,Female,1,Yes,No,34,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),30.299285408059777,1018.9284607919575,No
+8517-A371,Male,0,No,No,18,Yes,Yes,DSL,Yes,No,No,No internet service,No,Yes,Month-to-month,No,Mailed check,109.85729048080205,1962.1703895818848,No
+3287-A862,Male,0,Yes,No,7,Yes,Yes,DSL,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),118.54518764261647,808.4820784661275,No
+9830-B864,Male,0,Yes,Yes,25,No,No phone service,Fiber optic,No,No,No,Yes,Yes,No,One year,No,Mailed check,36.39991889442473,888.023276270651,No
+8019-C508,Male,1,Yes,No,70,Yes,No,DSL,Yes,No internet service,No,No internet service,No internet service,No internet service,One year,Yes,Mailed check,22.112555976537042,1554.4428352632144,No
+6930-A241,Male,0,No,No,29,Yes,No phone service,Fiber optic,No internet service,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,45.892971991890285,1326.3418052680909,No
+9348-B193,Female,0,Yes,Yes,6,Yes,No,DSL,No,Yes,Yes,No,No internet service,Yes,One year,No,Bank transfer (automatic),102.15362276567276,600.5842159850839,No
+1771-A256,Female,0,Yes,No,66,No,Yes,No,Yes,No internet service,Yes,No,No internet service,No,One year,No,Mailed check,47.785953361531334,3147.2821255439453,No
+3621-C532,Female,0,No,Yes,64,No,No phone service,DSL,No internet service,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),23.968598790010965,1528.7112930903104,No
+2040-B490,Female,0,Yes,Yes,35,No,Yes,No,No internet service,Yes,No,No internet service,No,No,Month-to-month,No,Bank transfer (automatic),23.525464487279507,813.7452549532105,Yes
+8668-C357,Female,0,No,No,24,No,No,No,No internet service,No internet service,No internet service,No,No,No,Month-to-month,Yes,Electronic check,61.20599163812836,1484.9993042574533,Yes
+1188-C838,Male,0,No,No,36,No,No,Fiber optic,No,No,Yes,No internet service,No internet service,Yes,One year,Yes,Electronic check,111.89848516769278,4042.513755065083,No
+2876-C649,Female,0,Yes,No,0,No,No,DSL,No,No,Yes,No,Yes,No internet service,One year,No,Credit card (automatic),46.98500438478301,15.884898486119397,No
+5371-C448,Female,0,No,No,14,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),61.179346910454896,858.3028206232497,Yes
+2827-B545,Male,0,No,No,36,No,No,DSL,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),28.49434744095216,1028.6011527436694,No
+3591-B103,Female,1,Yes,No,12,No,Yes,No,No,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),67.8540657235326,807.7226481085415,Yes
+5315-C880,Male,0,No,Yes,7,Yes,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),88.25297996071325,609.3001486627055,No
+3927-C208,Female,0,No,Yes,4,No,No,DSL,No,No internet service,No,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),45.50061129831057,182.21970101078432,Yes
+5889-C619,Male,1,Yes,No,59,No,No,DSL,No,Yes,No,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,48.06948650713282,2842.623264172303,Yes
+4258-A482,Female,0,Yes,Yes,72,Yes,No,Fiber optic,No internet service,No,No,Yes,No,Yes,Month-to-month,Yes,Electronic check,102.86849005333026,7418.488965358372,Yes
+3646-C897,Female,0,Yes,No,0,Yes,No phone service,DSL,No,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),19.291554095891296,0.0,Yes
+9689-A713,Male,0,No,Yes,35,Yes,No,DSL,Yes,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,82.21530620928475,2865.0083788372626,No
+6310-B119,Male,0,Yes,Yes,34,No,Yes,DSL,No internet service,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),57.835405811632505,1973.743647461168,No
+2832-B999,Male,0,No,Yes,65,Yes,Yes,Fiber optic,Yes,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,48.23724161292763,3117.2392693250044,Yes
+6038-A159,Male,0,No,No,62,No,No,DSL,No internet service,Yes,Yes,No internet service,No,Yes,One year,No,Bank transfer (automatic),84.33818014050965,5228.575063021712,No
+4946-C180,Male,0,No,Yes,22,No,No,No,No internet service,No,Yes,No,No,Yes,Month-to-month,No,Electronic check,102.13418643986537,2247.845147935172,No
+2403-C597,Male,0,No,No,8,No,No phone service,Fiber optic,No,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,74.3684076910317,591.1593835159144,Yes
+2133-C884,Male,0,No,Yes,33,No,No phone service,Fiber optic,Yes,No,No,No,Yes,No internet service,One year,No,Bank transfer (automatic),21.375009505277127,689.9228625890496,No
+3060-A775,Male,0,No,Yes,45,Yes,No phone service,No,No internet service,No,Yes,Yes,No internet service,Yes,Month-to-month,No,Mailed check,64.62081967797039,2904.280775418455,No
+8787-C269,Female,0,No,Yes,3,Yes,No,No,No,No,No,No internet service,No,No,One year,Yes,Credit card (automatic),64.7573740598443,210.69754668954906,No
+5342-C993,Female,0,Yes,Yes,29,No,No phone service,No,No internet service,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Mailed check,72.9017487278631,2120.067929121694,Yes
+7932-A652,Male,0,Yes,Yes,71,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Electronic check,85.68136955487701,6094.994384416563,No
+4295-C419,Female,1,No,No,2,No,Yes,No,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),20.191499555201215,28.210980838579857,Yes
+7537-C765,Female,0,No,No,13,No,No phone service,DSL,No internet service,No,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),68.70226875217492,895.6865731010471,No
+7118-B629,Female,0,Yes,Yes,59,No,Yes,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,Two year,No,Mailed check,77.37493082274936,4566.004322059208,No
+8397-A353,Female,0,No,Yes,44,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Mailed check,52.75701533481322,2322.385729244813,Yes
+4681-A446,Male,0,Yes,Yes,33,No,No phone service,No,No,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),85.42070527233852,2824.441733314626,No
+1344-C667,Female,0,Yes,Yes,44,No,Yes,DSL,No internet service,Yes,No,Yes,No,No internet service,Month-to-month,No,Electronic check,41.18186057148169,1813.4750901547602,Yes
+4770-C325,Male,1,Yes,No,60,Yes,No,No,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),50.14591947327889,2996.8605776617387,No
+1117-A824,Female,1,No,Yes,15,Yes,No,No,No,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),115.00691241614476,1731.2362267320252,No
+1964-A169,Female,0,No,No,65,Yes,No phone service,DSL,Yes,No,No,No internet service,No,No,Month-to-month,No,Mailed check,53.23107227154458,3468.428540447703,No
+1514-B172,Female,1,Yes,Yes,39,Yes,No,No,No internet service,No,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),53.07333918025738,2083.0550177363025,No
+9423-A385,Male,0,Yes,No,16,No,Yes,Fiber optic,Yes,No,Yes,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),78.11590390022309,1263.4909908427453,No
+8953-A652,Female,0,Yes,Yes,33,Yes,No,No,No internet service,No,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),115.83302065093605,3827.2540121494635,No
+3167-C684,Male,0,Yes,Yes,15,No,No phone service,DSL,No internet service,No,No internet service,No,No,Yes,One year,Yes,Electronic check,117.04958481827654,1744.3154011931758,No
+8744-A903,Female,1,Yes,No,59,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,Yes,Two year,No,Mailed check,76.50562534946977,4498.53805727657,No
+8749-B294,Male,0,No,Yes,65,Yes,Yes,Fiber optic,No,No internet service,Yes,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,18.35924549039572,1191.0800208113214,Yes
+2545-A774,Female,0,Yes,Yes,65,Yes,No phone service,DSL,No internet service,No,No,Yes,Yes,No,Two year,No,Mailed check,108.76598335222417,7078.983627639841,No
+8062-B533,Male,0,No,Yes,12,Yes,No,DSL,No,No,Yes,No,No internet service,Yes,One year,No,Electronic check,75.55891543999334,915.2573359618958,No
+7735-B984,Male,0,Yes,No,55,Yes,No phone service,Fiber optic,Yes,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,55.03263903313855,3029.535139445252,No
+1887-C769,Female,0,No,Yes,30,Yes,Yes,No,No,No internet service,No,Yes,Yes,No internet service,Two year,No,Credit card (automatic),101.5841116721018,3047.157757775142,No
+2612-A512,Male,0,No,Yes,33,No,No phone service,Fiber optic,No,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,58.43316216469561,1947.331703676952,Yes
+6559-A354,Female,0,No,No,38,Yes,No,No,Yes,No,No internet service,No,No internet service,No,Month-to-month,Yes,Mailed check,21.6714728731266,829.2562879376221,Yes
+4139-A649,Female,0,No,No,66,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No internet service,No internet service,One year,No,Mailed check,100.76775841723038,6649.799324768276,No
+8350-A532,Female,0,No,No,7,Yes,No,No,No internet service,Yes,No,No,No internet service,No,Month-to-month,Yes,Electronic check,73.10886980248611,505.30767838073916,No
+4006-B573,Female,0,No,Yes,54,Yes,Yes,Fiber optic,Yes,Yes,No internet service,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),52.23342559153171,2810.5189287656203,Yes
+5092-A553,Female,0,Yes,Yes,26,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Credit card (automatic),43.46468382356204,1119.0111392667116,Yes
+2604-A767,Female,0,No,Yes,52,Yes,Yes,Fiber optic,Yes,No,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),77.92664467125027,4042.1005886768407,No
+9856-A195,Female,1,Yes,No,38,Yes,Yes,No,No internet service,Yes,No,Yes,No,Yes,One year,Yes,Bank transfer (automatic),39.158979596622565,1490.8507458042452,No
+4872-A516,Female,0,No,Yes,64,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,Yes,One year,No,Credit card (automatic),50.79701409897883,3250.8282057293363,No
+8956-B318,Female,0,No,Yes,16,Yes,No,DSL,No,No internet service,Yes,No,Yes,Yes,Two year,Yes,Mailed check,82.22129609610535,1312.281589914781,No
+7570-A268,Female,0,Yes,No,29,No,No phone service,No,No internet service,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,106.84521726579617,3105.876080059108,Yes
+7209-A499,Female,0,No,No,52,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,71.80547800335567,3751.97660551622,Yes
+5345-B392,Male,0,Yes,No,12,No,No phone service,No,Yes,No,Yes,No internet service,No internet service,Yes,One year,Yes,Electronic check,94.5401930290588,1126.2488469858256,No
+7930-C848,Male,0,Yes,No,20,Yes,Yes,No,No internet service,Yes,No internet service,Yes,Yes,Yes,One year,Yes,Mailed check,94.9375906781857,1892.0089531315282,No
+8973-A294,Female,0,Yes,No,18,No,No phone service,Fiber optic,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Electronic check,85.01757224226837,1508.145776443696,Yes
+5861-A159,Female,0,Yes,Yes,52,No,No phone service,No,Yes,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),42.95675293689202,2233.487844363688,Yes
+9883-A865,Female,0,No,No,18,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,105.36225411409931,1895.24436836952,No
+6138-A151,Female,0,No,Yes,56,Yes,Yes,DSL,No internet service,No,No,No,Yes,Yes,Two year,No,Mailed check,62.09570339177643,3486.287292391624,No
+8811-C973,Female,0,Yes,Yes,24,No,No,No,Yes,No,No internet service,No,No,No,One year,No,Bank transfer (automatic),22.693179765537906,543.7681871333033,No
+9701-A158,Female,0,No,No,30,No,Yes,DSL,No,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),42.833573341987275,1279.1261072816633,No
+9320-A971,Female,0,No,No,54,Yes,No phone service,No,Yes,No,No,No internet service,No internet service,Yes,Two year,Yes,Mailed check,95.18760958698124,5142.057775120038,No
+4044-A709,Female,0,Yes,No,22,No,Yes,No,Yes,No internet service,No,No,Yes,No internet service,Two year,No,Electronic check,25.197900249657682,559.9244890838855,No
+2113-C982,Male,0,No,Yes,31,No,No,No,No internet service,No internet service,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),33.060122416568575,,No
+4853-B222,Female,0,Yes,No,61,No,No,Fiber optic,No,No,No,No internet service,No,Yes,Two year,Yes,Bank transfer (automatic),88.0197950121913,5379.27640565099,No
+5033-C708,Male,0,Yes,No,9,Yes,No,DSL,Yes,No internet service,Yes,No,Yes,Yes,Two year,Yes,Credit card (automatic),107.95637936761783,984.6704421757116,No
+1651-C183,Female,0,No,No,71,No,Yes,No,No,No,No internet service,No internet service,No internet service,No,Two year,No,Electronic check,81.9400665082925,5823.219273498567,No
+7868-C697,Female,0,No,No,53,No,No,Fiber optic,No,No internet service,Yes,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),40.590250909870235,2141.9377476203035,No
+9565-B367,Male,1,No,No,51,No,No,No,No,Yes,Yes,No,No internet service,No internet service,One year,Yes,Electronic check,23.618083206579634,1201.2619781507422,No
+4346-C833,Female,1,Yes,Yes,19,Yes,No,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,One year,No,Credit card (automatic),80.07022154630633,1533.1629543370427,Yes
+6147-A371,Male,0,Yes,Yes,31,Yes,No phone service,No,Yes,No internet service,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),23.01355708208198,703.6380610079974,Yes
+7484-A787,Female,0,No,Yes,13,No,No phone service,DSL,No internet service,No,Yes,No internet service,No internet service,No internet service,One year,No,Electronic check,79.82856622014657,1044.0577979395573,No
+5915-B423,Female,0,No,No,49,Yes,Yes,DSL,Yes,No internet service,No internet service,No internet service,Yes,No,One year,Yes,Credit card (automatic),40.92078438819006,2004.610714928581,No
+2188-A569,Male,0,No,No,27,No,Yes,No,Yes,Yes,Yes,No internet service,No internet service,Yes,Two year,Yes,Electronic check,109.16793427208738,2949.136157841429,No
+2638-A650,Female,0,No,No,52,Yes,No,Fiber optic,No internet service,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,65.99681318297988,3423.4765707417055,No
+4492-C371,Male,0,Yes,Yes,23,Yes,No phone service,No,No,No internet service,No internet service,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),40.755812547624416,940.6903314463831,No
+3170-B170,Female,0,No,No,21,No,No,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),103.99110431413845,2186.403947968051,Yes
+5002-B391,Male,0,Yes,No,29,Yes,No,No,Yes,Yes,No internet service,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),43.78055754397459,1254.5425828695968,No
+3584-B953,Male,0,Yes,No,62,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,No internet service,Yes,One year,Yes,Mailed check,49.06320719074999,3041.8744068809956,No
+9900-C409,Female,0,No,Yes,3,Yes,No phone service,DSL,No,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,102.09492885507329,312.4237581360196,No
+9666-A783,Female,0,No,No,58,No,No phone service,No,No,Yes,No,No,No,No,Month-to-month,No,Electronic check,49.28359899495989,2854.5959092047096,No
+5905-C206,Male,0,No,Yes,7,Yes,Yes,DSL,Yes,No internet service,No internet service,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),59.471458807679056,391.82290614270926,Yes
+3200-B218,Female,0,Yes,No,11,Yes,Yes,DSL,Yes,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,53.19039991126609,583.9462317749477,Yes
+2753-C666,Female,0,No,Yes,30,No,No,No,No internet service,Yes,No,No internet service,No internet service,No internet service,One year,Yes,Credit card (automatic),29.948231941952773,913.1116375900364,No
+3546-B388,Female,0,No,Yes,33,Yes,Yes,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),22.159029130806026,727.8032664219903,Yes
+4450-C451,Male,1,Yes,Yes,48,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),91.06633774312863,4385.470722498746,Yes
+4335-C749,Male,0,No,No,56,Yes,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),83.08628095553992,4644.708157947125,Yes
+5325-C600,Male,0,Yes,No,25,Yes,Yes,DSL,No,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),46.627789788981744,1154.0850382672738,No
+5114-A194,Male,0,No,Yes,17,Yes,No,Fiber optic,No,Yes,Yes,No internet service,Yes,No internet service,One year,Yes,Electronic check,47.957712060980285,815.230078658439,No
+7939-B145,Male,0,Yes,Yes,37,No,No,Fiber optic,No internet service,Yes,Yes,No,Yes,No internet service,Month-to-month,Yes,Electronic check,113.22308119237248,4181.0282204404275,Yes
+1058-B889,Male,0,No,No,49,No,Yes,No,No internet service,No internet service,No internet service,Yes,No,No internet service,Two year,Yes,Electronic check,117.51094828696596,5761.335043439938,No
+3143-C368,Male,0,No,No,7,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,65.8302077749862,457.08574588224974,Yes
+3647-C552,Male,0,Yes,Yes,40,Yes,No,DSL,Yes,No internet service,Yes,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),98.89640042089012,3970.595187288163,No
+8007-C109,Male,0,Yes,No,5,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),92.28693052487122,457.01797791218314,Yes
+2832-A807,Female,0,No,No,68,No,No phone service,DSL,No internet service,No,No,No internet service,Yes,Yes,One year,Yes,Electronic check,48.130429805960716,3273.766596406848,No
+3442-C136,Male,0,Yes,No,43,No,No phone service,No,No,No,No,No,No,No internet service,One year,No,Mailed check,24.135552407308076,1043.7921107986838,No
+7049-C665,Female,0,Yes,No,63,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),32.57690384206147,2061.908102444453,No
+3426-B230,Female,0,Yes,Yes,28,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No,No internet service,No internet service,One year,No,Credit card (automatic),102.49855875857672,2884.75607219957,No
+1685-B473,Female,0,Yes,No,27,No,No,No,Yes,No,No,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),91.73698890962625,2474.5500678834987,No
+1653-B315,Male,1,No,No,10,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,No,No internet service,One year,No,Electronic check,85.01565186845893,846.1634376932085,No
+5088-C205,Male,0,No,Yes,64,No,Yes,No,Yes,No internet service,No internet service,No,No internet service,No,Two year,Yes,Credit card (automatic),31.380207585513155,1989.1941184808786,No
+6794-C995,Male,0,Yes,Yes,18,No,No phone service,No,Yes,No,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),82.56303408877774,1506.5517285121475,No
+7658-C867,Male,0,Yes,No,8,Yes,No,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,Month-to-month,Yes,Mailed check,95.8513093150581,770.420115492798,Yes
+3532-A985,Female,0,Yes,No,26,No,No,Fiber optic,No,No internet service,No,Yes,No internet service,No internet service,One year,No,Credit card (automatic),104.74047586095921,2730.7704530426618,No
+3662-A522,Male,0,Yes,No,33,Yes,Yes,No,Yes,No,Yes,No internet service,Yes,Yes,Month-to-month,No,Credit card (automatic),19.57974355895863,651.688826194761,No
+1406-A854,Male,0,No,No,43,Yes,No phone service,No,No,Yes,Yes,No internet service,No,No internet service,Two year,Yes,Bank transfer (automatic),87.03974773878701,3743.204501596602,No
+6442-B921,Male,0,No,Yes,67,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),20.169314388122043,1354.8475898092106,Yes
+5065-B263,Male,0,Yes,Yes,14,Yes,No phone service,DSL,Yes,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,89.29072097711557,1244.4734691877754,Yes
+2771-B993,Male,0,Yes,Yes,50,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,Two year,Yes,Electronic check,82.12994715556648,4103.476371270929,No
+1634-B327,Female,0,Yes,No,12,Yes,Yes,No,No internet service,No,No,No,Yes,Yes,Two year,No,Electronic check,33.158960223356736,388.40546467665206,No
+4269-B458,Male,0,No,No,48,No,No phone service,Fiber optic,No internet service,No,No,Yes,No,Yes,Month-to-month,No,Credit card (automatic),95.2452360101856,4587.343768126144,No
+6000-A328,Female,0,Yes,No,69,No,No,DSL,No internet service,No internet service,No,No,Yes,No,Two year,No,Mailed check,25.11893562806396,1738.8213684353766,No
+1387-C297,Male,0,No,No,55,No,No,Fiber optic,No,No internet service,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,101.30307676133566,5591.4309476760045,Yes
+7528-B385,Female,0,Yes,Yes,50,No,No,No,Yes,No,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),44.57388910724701,2251.658287821805,Yes
+2137-B459,Male,0,No,Yes,36,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,No internet service,No internet service,Two year,No,Mailed check,87.47961216121683,3135.2244754076337,No
+9346-B795,Male,1,Yes,No,16,No,No phone service,No,No,No internet service,No internet service,No,No,No,Month-to-month,Yes,Mailed check,111.08077877269797,1787.1447440918978,No
+9785-B128,Female,0,No,Yes,57,No,No phone service,No,Yes,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),52.40261597968162,2973.369474071548,No
+2889-B282,Female,0,Yes,No,28,No,No phone service,Fiber optic,No,No,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,68.79085483301213,1927.9181102089842,Yes
+5349-A211,Female,0,Yes,No,32,Yes,No phone service,No,Yes,Yes,No,No,No internet service,No,One year,No,Credit card (automatic),64.79336241202026,2076.5348918832437,No
+8119-B846,Male,0,Yes,Yes,59,No,No phone service,No,No internet service,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,34.089940580818244,1998.4348327772007,No
+6139-B720,Female,0,No,No,54,Yes,No phone service,DSL,Yes,Yes,No,Yes,Yes,No,One year,Yes,Electronic check,77.57635705432155,4181.748097577952,No
+9379-A494,Male,0,Yes,No,9,No,No phone service,DSL,No,No internet service,No,Yes,Yes,No,One year,No,Mailed check,92.92169281135527,839.8987500599609,No
+4114-B145,Male,0,No,Yes,46,Yes,No phone service,DSL,No,No,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,110.39592030684383,5079.9753411052225,No
+8144-A632,Female,0,No,No,22,Yes,No,DSL,No internet service,No,No,No internet service,No,No,One year,No,Electronic check,103.75566146577604,2272.440836615728,No
+9821-C836,Female,0,Yes,No,20,No,No phone service,No,No,No,Yes,Yes,No internet service,No internet service,Two year,No,Electronic check,69.50694766266719,1383.1586422939467,No
+4228-B541,Male,1,Yes,Yes,12,Yes,Yes,Fiber optic,Yes,Yes,No,No,No internet service,No internet service,Month-to-month,No,Mailed check,90.51122402844945,1071.2202854565544,Yes
+2146-C438,Male,0,Yes,No,32,Yes,No,No,Yes,No,No,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),98.72873304407622,3147.290221952208,No
+6143-C968,Female,0,No,Yes,23,No,No phone service,No,No internet service,No internet service,No,No,No,Yes,Month-to-month,Yes,Electronic check,67.84561573070405,1556.7349576910583,No
+3041-C407,Female,0,Yes,No,10,No,Yes,No,No,Yes,No internet service,Yes,Yes,No,One year,Yes,Electronic check,29.850469850778907,308.37922963476586,No
+9308-B782,Female,1,No,Yes,16,No,No phone service,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,Two year,Yes,Electronic check,62.26204176666077,1007.3349990117954,No
+7691-B512,Male,0,No,Yes,67,Yes,Yes,DSL,Yes,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,102.91904283925727,6913.910237184038,No
+5844-C230,Male,0,Yes,Yes,46,Yes,Yes,No,No internet service,Yes,No internet service,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),78.21246124207036,3602.0158589867974,No
+4143-B780,Male,1,Yes,No,24,Yes,Yes,No,No,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,91.05806688943858,2187.276436023693,No
+7211-C866,Male,1,Yes,Yes,72,No,Yes,DSL,No internet service,No,No internet service,Yes,Yes,Yes,One year,Yes,Electronic check,36.86943622633505,2659.5508717060898,No
+3851-C682,Male,0,Yes,Yes,20,Yes,No,No,No,No internet service,No internet service,No,No,Yes,Month-to-month,No,Electronic check,115.16594570520607,2308.1744742764204,No
+5930-B661,Male,0,Yes,Yes,11,Yes,No,Fiber optic,No,No,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),58.860093214077594,631.2958893495666,Yes
+1006-B393,Female,0,Yes,Yes,36,Yes,Yes,No,Yes,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Credit card (automatic),83.94037003313176,3040.7420550682846,Yes
+4443-B904,Male,0,No,Yes,41,Yes,No phone service,No,Yes,Yes,No,Yes,No internet service,No internet service,One year,Yes,Electronic check,20.14666158635583,806.7037352209696,No
+6279-B552,Male,1,No,No,16,Yes,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,31.04558585665678,508.21699767029395,No
+8244-C318,Male,0,No,No,47,Yes,No,No,No,No internet service,No,Yes,Yes,No,One year,No,Bank transfer (automatic),96.84444412343436,4552.252743584732,No
+9375-B912,Female,0,Yes,No,27,Yes,No phone service,No,No internet service,No internet service,Yes,Yes,No,No,Month-to-month,No,Credit card (automatic),115.53092927478559,3108.440118497663,No
+3780-C186,Male,0,No,No,40,No,No,Fiber optic,No,No,No internet service,No,No internet service,No,One year,Yes,Bank transfer (automatic),50.41556318307556,2021.9362716237415,No
+5649-C779,Male,0,No,No,46,No,No,DSL,Yes,No internet service,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,21.986663861597115,1010.2051515844503,No
+6491-A938,Female,0,No,No,17,No,No phone service,DSL,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,54.51709349900382,919.9652095216568,Yes
+4848-C417,Male,0,No,No,70,Yes,Yes,Fiber optic,No internet service,No,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,20.005547093039763,1386.5735198749733,Yes
+4680-A250,Male,0,No,Yes,12,Yes,Yes,No,Yes,No,No,Yes,No internet service,No,One year,Yes,Electronic check,37.58349577237814,436.34687797829844,No
+1400-A350,Male,0,Yes,No,12,No,Yes,DSL,Yes,No,No,No,No,Yes,Month-to-month,No,Mailed check,93.87343751290071,1120.3721371603165,Yes
+8784-C970,Male,0,Yes,Yes,30,Yes,Yes,DSL,Yes,No internet service,No,No,No internet service,Yes,Month-to-month,No,Mailed check,112.42738400970286,3368.9516391139973,No
+2193-B524,Male,0,No,Yes,1,No,No phone service,No,No internet service,No,No internet service,No internet service,No,Yes,Two year,No,Mailed check,27.038632979073107,14.93320765068509,No
+4185-C813,Female,0,No,No,15,Yes,No phone service,No,No,Yes,No internet service,Yes,No internet service,No internet service,Two year,No,Bank transfer (automatic),74.31902827045619,1115.1702255333125,No
+7291-B509,Female,0,No,Yes,8,Yes,No phone service,DSL,Yes,Yes,No internet service,No internet service,No,Yes,Month-to-month,No,Credit card (automatic),43.765025035465214,339.4388382630765,Yes
+4997-A771,Female,0,Yes,Yes,72,No,No,No,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,One year,No,Electronic check,32.22544214228992,2323.8340414466334,No
+1090-A897,Male,0,Yes,Yes,37,No,No phone service,DSL,Yes,No internet service,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),40.257513104101534,1501.8417780644734,No
+7965-A280,Male,0,No,Yes,53,No,Yes,No,No internet service,Yes,No internet service,No,No,No,One year,No,Mailed check,76.3151882835196,4047.5987221885,No
+9486-B151,Male,0,Yes,No,55,No,No,No,Yes,No internet service,No internet service,No,No internet service,No,Two year,Yes,Electronic check,24.796017395118085,1362.8426088216902,No
+5082-A567,Female,0,Yes,No,44,No,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,61.88896891492596,2717.7656618785313,No
+3184-B783,Male,0,No,No,33,Yes,Yes,No,Yes,Yes,No internet service,Yes,No,Yes,One year,No,Bank transfer (automatic),31.84039902099397,1065.1941538785534,No
+9702-C709,Male,0,Yes,No,8,Yes,No phone service,Fiber optic,No,No,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),45.65404376564539,363.29719294990576,Yes
+6198-B727,Female,0,Yes,No,7,Yes,No phone service,No,Yes,No internet service,No,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),37.420810139198025,286.84790874218345,No
+9270-B950,Male,1,No,No,6,No,Yes,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,One year,Yes,Mailed check,106.98903773300516,630.1038679489097,No
+9976-B262,Female,0,Yes,No,35,No,Yes,DSL,Yes,No internet service,No internet service,Yes,Yes,No,Two year,No,Credit card (automatic),89.4051387525646,3132.078929166382,No
+8777-B365,Female,0,Yes,No,17,No,No,No,No,No,Yes,No,Yes,No internet service,Month-to-month,No,Mailed check,105.53048918422078,1808.145552231441,No
+5050-C383,Female,0,No,No,2,No,No phone service,No,Yes,No,No,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),56.78801487204309,106.67466642491011,Yes
+9540-B741,Male,0,Yes,No,27,No,No,DSL,No internet service,Yes,No,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),49.748043167793845,1340.8359220306788,Yes
+4919-B550,Male,0,Yes,Yes,69,No,No,No,No internet service,No internet service,No internet service,Yes,No,Yes,Two year,Yes,Electronic check,56.499013087225585,3904.6933680968295,No
+2269-C392,Male,0,No,No,43,Yes,No,Fiber optic,No,No internet service,No internet service,No,No,Yes,One year,No,Credit card (automatic),20.11409367030295,868.7849302870047,No
+4841-B443,Male,0,No,Yes,20,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,Yes,No,One year,Yes,Credit card (automatic),91.08277965243009,1827.2525836908114,No
+6238-C182,Male,0,No,Yes,27,Yes,No,Fiber optic,Yes,No internet service,No,No,No,Yes,Month-to-month,Yes,Electronic check,53.402131917955366,1453.4601465308774,Yes
+3267-A336,Male,0,Yes,Yes,53,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,No internet service,No,Two year,No,Credit card (automatic),49.73904225946757,2632.701698610256,No
+7275-C256,Male,1,No,Yes,53,Yes,Yes,Fiber optic,Yes,No,No,No,No,No internet service,Two year,No,Mailed check,78.36317706973855,4167.618643677491,No
+4505-A524,Female,0,Yes,No,64,No,No phone service,No,No internet service,Yes,No,No,Yes,No internet service,One year,No,Mailed check,62.09311612683655,3956.7592826235455,No
+7678-B655,Male,1,No,Yes,20,No,No phone service,No,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),116.8247585065018,,No
+8633-B163,Female,0,Yes,No,12,No,No,Fiber optic,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,No,Mailed check,54.053430811329534,660.1132266117176,Yes
+4388-B498,Male,0,No,No,56,No,Yes,No,Yes,No,No internet service,No internet service,No internet service,No,One year,Yes,Credit card (automatic),79.94653214189529,4469.261096185595,No
+1320-C489,Male,1,No,Yes,48,No,No phone service,No,No,No internet service,No,No internet service,Yes,No internet service,One year,Yes,Electronic check,49.57093561127,2364.898547581191,No
+8814-A460,Male,0,No,No,53,No,No,Fiber optic,No internet service,Yes,No,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),117.80479551117101,6241.332488046466,Yes
+5892-B973,Female,0,No,Yes,9,Yes,No,No,No internet service,Yes,No,Yes,No internet service,No internet service,One year,No,Electronic check,62.98365898937288,570.8909622126484,No
+7865-C865,Female,0,Yes,Yes,52,No,Yes,No,No internet service,No,Yes,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),81.9799454921137,4259.606175473008,Yes
+9947-C325,Female,0,No,No,43,No,No,No,No,Yes,No internet service,No,No,No,One year,Yes,Bank transfer (automatic),30.985527930744045,1337.3971229015658,No
+8999-A379,Female,1,No,No,46,No,No phone service,Fiber optic,No internet service,Yes,Yes,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,91.91893359379763,4247.648382947388,No
+8140-B129,Male,0,Yes,Yes,52,No,Yes,No,No,Yes,No,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,45.305610816500014,2342.2446430643276,Yes
+7371-B784,Female,0,No,No,45,Yes,No phone service,DSL,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,63.33563190938202,2830.5623848903333,No
+7624-C269,Male,0,Yes,No,12,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,107.00487276390952,1283.365496631752,Yes
+8657-A737,Male,0,No,No,36,No,No phone service,Fiber optic,Yes,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,115.79052774595269,4161.657313091221,Yes
+9751-A503,Female,0,No,Yes,23,Yes,No,DSL,Yes,No,Yes,No,Yes,Yes,Two year,No,Electronic check,60.91949623495588,1396.3452642199286,No
+1444-A758,Female,0,No,Yes,1,Yes,No,Fiber optic,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.14766812942723,114.81679962433611,Yes
+8022-A987,Female,0,Yes,No,13,No,No phone service,DSL,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),23.611573952261004,305.74429813111834,No
+8564-A151,Female,0,No,No,9,No,No phone service,DSL,No,No,Yes,No internet service,No,Yes,Month-to-month,No,Electronic check,103.43118999392138,930.5907557373455,No
+5262-B435,Female,0,No,No,34,No,Yes,DSL,No internet service,Yes,No internet service,No,Yes,No internet service,Month-to-month,No,Mailed check,81.5157873763413,2767.168795353176,Yes
+4467-B434,Female,1,No,No,24,No,Yes,Fiber optic,No,No,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,67.364969923356,,Yes
+6529-B384,Female,0,Yes,No,2,No,No,Fiber optic,No internet service,No,No,No internet service,No,No,Month-to-month,Yes,Electronic check,107.6913523662934,218.0677193573404,Yes
+7906-B954,Female,0,Yes,Yes,16,Yes,No,No,Yes,Yes,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),103.20639086189459,1679.1481357821292,No
+2341-B119,Male,0,No,No,11,No,Yes,Fiber optic,Yes,Yes,No,No,Yes,No internet service,Month-to-month,Yes,Electronic check,48.092982143333984,531.8193784127948,Yes
+9837-A458,Female,0,Yes,Yes,53,No,No phone service,DSL,No internet service,No internet service,No,Yes,Yes,No internet service,One year,No,Electronic check,97.79458242564813,5194.739820246246,No
+4673-C170,Female,0,No,No,23,No,No,DSL,No,Yes,Yes,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),28.248838833068447,651.5872890120207,Yes
+1659-A353,Male,0,No,Yes,28,Yes,No phone service,Fiber optic,Yes,Yes,No,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,100.9377755144707,2805.9798211020466,No
+4266-A736,Female,0,No,No,42,No,Yes,Fiber optic,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),86.13328961133668,3611.927445338988,Yes
+3496-A229,Male,0,No,Yes,24,No,No,Fiber optic,No internet service,Yes,No internet service,No,No,No,Two year,No,Bank transfer (automatic),27.080566258660244,652.7226973879347,No
+8758-C217,Male,0,No,No,59,No,No,No,No internet service,Yes,No internet service,No internet service,Yes,Yes,One year,No,Electronic check,86.89955743415061,5134.308034052719,No
+4571-B816,Female,1,No,Yes,64,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,Yes,One year,No,Electronic check,76.5921873059752,4904.0022734981985,No
+5198-B271,Male,0,No,Yes,27,No,No,No,No internet service,Yes,Yes,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,78.00228516507701,2115.2652134547984,No
+2876-A418,Male,0,Yes,Yes,15,No,Yes,No,Yes,Yes,Yes,Yes,No internet service,No,Two year,Yes,Electronic check,47.4818254805347,697.6275342262286,No
+2771-C126,Male,1,Yes,Yes,46,No,No,DSL,No,No internet service,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,45.032968601290946,2072.004480415555,No
+6111-C793,Male,0,Yes,Yes,57,Yes,Yes,DSL,Yes,No internet service,No,Yes,No,Yes,Month-to-month,No,Mailed check,94.88477876142902,5421.712019748309,Yes
+7149-B832,Female,0,Yes,Yes,26,No,No,Fiber optic,Yes,No,No,Yes,Yes,No,One year,Yes,Mailed check,44.05975484223253,1135.8380259252863,No
+4249-A706,Male,1,Yes,No,52,No,No phone service,Fiber optic,No,Yes,No,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),63.09935630689481,3292.3724422813634,No
+4978-A813,Female,0,Yes,Yes,41,No,No phone service,No,Yes,No,No,Yes,Yes,No internet service,Two year,No,Credit card (automatic),88.07629435917787,3621.817143319143,No
+5941-C714,Male,0,Yes,No,58,Yes,No phone service,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,No,Mailed check,26.251433258407495,1510.212882462415,Yes
+2983-C901,Male,0,No,No,46,No,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No internet service,Two year,No,Electronic check,78.00211245247155,3591.4759584247895,No
+1672-B645,Male,0,No,No,33,No,No,DSL,No,Yes,No internet service,No internet service,Yes,No internet service,One year,Yes,Electronic check,77.48232545113578,2558.504879804165,No
+8018-C479,Male,0,No,No,36,No,No phone service,DSL,Yes,Yes,No internet service,No internet service,No internet service,Yes,One year,Yes,Mailed check,87.01498544424656,3130.775849062252,No
+2129-C763,Female,0,No,No,5,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No,No internet service,Month-to-month,No,Mailed check,55.42777357821869,261.8699756688563,Yes
+6590-A969,Female,1,Yes,Yes,6,Yes,Yes,DSL,No,No,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,63.37246729341589,377.60420639914867,No
+7882-B208,Male,0,Yes,Yes,24,No,Yes,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,No,Two year,No,Mailed check,51.411916051441715,1232.3230265611874,No
+8102-B750,Male,0,No,Yes,32,Yes,Yes,DSL,No internet service,Yes,Yes,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),99.47090884247197,3166.0860701013044,Yes
+8532-C256,Female,0,No,No,54,Yes,No phone service,DSL,No,No internet service,Yes,No,No,No,One year,Yes,Credit card (automatic),31.376381383631312,1681.2730783457412,No
+8135-A851,Male,0,Yes,Yes,57,Yes,No phone service,DSL,Yes,Yes,No,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),115.02687233432066,6547.261769121777,No
+9548-C376,Male,0,No,Yes,6,No,No phone service,DSL,No,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Mailed check,82.05103367591136,481.82338640298343,Yes
+9817-B576,Male,0,No,Yes,56,No,Yes,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No internet service,One year,No,Bank transfer (automatic),107.38412580141367,6016.773748589727,No
+8136-C706,Female,0,No,Yes,11,Yes,No,No,No internet service,No,No,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),61.08626155560881,,No
+5397-B972,Female,0,No,Yes,15,Yes,No phone service,DSL,No internet service,No,Yes,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),51.64404657439567,771.5552671479061,Yes
+5022-A385,Female,1,Yes,No,42,Yes,No,Fiber optic,Yes,Yes,No internet service,No,Yes,No,Month-to-month,No,Mailed check,108.77294391746034,4576.126540208424,No
+8385-A868,Male,0,No,Yes,6,No,No,Fiber optic,Yes,Yes,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),28.18673940206843,178.64532101725686,Yes
+8613-C724,Male,0,No,No,50,No,No,DSL,No internet service,No,No,Yes,No,No,Month-to-month,No,Credit card (automatic),30.01927676628042,1500.1109088835742,No
+7209-B129,Female,0,Yes,No,72,Yes,Yes,No,Yes,No internet service,No internet service,No,No,No,One year,Yes,Bank transfer (automatic),48.334351036710075,3484.1537120750872,No
+9098-B286,Female,1,Yes,No,31,Yes,No,DSL,No internet service,Yes,No,No,No internet service,No internet service,Month-to-month,No,Credit card (automatic),114.70738566751501,3553.695504111257,No
+8988-A463,Female,0,No,No,7,Yes,No phone service,Fiber optic,Yes,No,No,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),81.87339529144326,561.885469498151,No
+5232-B386,Female,0,Yes,No,71,Yes,Yes,No,No internet service,No,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,73.94646650984751,5242.731527683725,No
+5526-C110,Male,0,No,Yes,44,No,No phone service,Fiber optic,No,No internet service,No,No internet service,No,No internet service,One year,Yes,Bank transfer (automatic),89.13831180371977,3925.347200970249,No
+9464-A187,Female,0,No,Yes,58,Yes,No phone service,DSL,No internet service,Yes,No,No internet service,Yes,No internet service,One year,No,Mailed check,60.2061928858557,3490.745891983447,No
+4954-C516,Male,0,Yes,Yes,3,No,Yes,No,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),94.43638689279032,290.68089080946936,Yes
+9004-C876,Female,0,No,No,66,Yes,No phone service,Fiber optic,Yes,No internet service,No,No,Yes,No internet service,Month-to-month,No,Electronic check,57.7696851462742,3793.929348916271,Yes
+4937-C587,Male,0,No,Yes,28,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,No,One year,No,Bank transfer (automatic),101.29950007807469,2819.9202865291104,No
+9041-B911,Female,0,No,Yes,28,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,Two year,Yes,Mailed check,45.113155748688705,1247.886112429719,No
+1282-A401,Female,0,No,No,27,Yes,No phone service,DSL,Yes,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,46.14343925945144,1247.5393918162276,No
+4630-B808,Female,0,Yes,No,43,Yes,No,No,Yes,No,No,No,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),70.74952219538689,3028.448423418246,No
+4986-B779,Female,0,Yes,No,3,No,No phone service,DSL,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),61.54149641535438,187.8257808958325,Yes
+7046-B666,Male,0,No,No,8,Yes,No,DSL,No,Yes,No,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,83.38564235061189,674.6152380155365,Yes
+9698-B535,Female,0,Yes,Yes,4,Yes,No phone service,DSL,No internet service,No internet service,Yes,No,Yes,Yes,One year,Yes,Electronic check,54.861220844694685,234.60738111297258,No
+6419-B819,Male,1,No,No,55,Yes,Yes,No,No internet service,Yes,No,Yes,Yes,Yes,Two year,No,Mailed check,41.42034023157187,2292.1777882528554,No
+8434-B413,Male,0,No,No,49,No,Yes,DSL,No internet service,No,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),65.46576056973156,3200.868071373508,No
+5118-A223,Male,0,No,Yes,14,No,No phone service,DSL,No,Yes,No internet service,No,No,No internet service,Two year,Yes,Bank transfer (automatic),74.6261281994632,1028.0694148623027,No
+4155-B222,Male,0,No,Yes,31,No,Yes,DSL,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Credit card (automatic),32.58130540988389,1003.7010477232998,No
+9779-C289,Female,1,No,No,27,No,No phone service,DSL,No,No,Yes,No internet service,No,Yes,One year,No,Bank transfer (automatic),74.20022188618312,2013.1743483963057,No
+4138-A856,Male,0,Yes,Yes,21,Yes,Yes,Fiber optic,No,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),50.335298877413635,1053.1443757372892,Yes
+8933-B841,Male,0,No,No,16,Yes,No,DSL,No,No,No,No internet service,No internet service,No,Month-to-month,No,Electronic check,57.69141442928505,922.8194249681735,No
+9595-C389,Male,0,Yes,No,58,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Electronic check,46.32147197085976,2681.0737668658544,Yes
+2647-A403,Female,0,Yes,Yes,70,No,No,DSL,No,No,Yes,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),111.85673794320252,7845.783683673373,No
+4727-B283,Female,0,No,Yes,56,Yes,No,No,No internet service,Yes,Yes,Yes,Yes,No,One year,Yes,Credit card (automatic),86.9252962686615,4857.671983396852,No
+5952-A825,Female,1,No,No,25,Yes,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,One year,Yes,Credit card (automatic),44.627261295768676,1116.34918779153,No
+9751-A380,Female,1,No,No,24,No,No,Fiber optic,Yes,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Mailed check,83.07564912247099,2004.897964550303,No
+1745-A666,Male,0,No,No,9,No,No phone service,Fiber optic,Yes,No,No internet service,No,No internet service,No internet service,Two year,No,Mailed check,103.53152716299564,950.1992392309145,No
+5786-C229,Male,0,No,Yes,44,No,No,Fiber optic,No,No,Yes,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),58.61383593744325,2572.0607602321165,Yes
+9042-A993,Female,1,Yes,No,10,Yes,No phone service,No,No,Yes,Yes,Yes,No,Yes,One year,Yes,Mailed check,101.66072967019632,1026.2153553633468,Yes
+1200-C391,Male,0,No,No,52,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),33.768701906169234,1749.6498491855693,Yes
+8690-B551,Male,0,No,No,71,No,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,No,Credit card (automatic),100.93952716904988,7180.478027688329,Yes
+6582-A152,Male,0,Yes,No,67,Yes,No phone service,No,No,No,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),72.54957138857282,4878.115953551671,No
+5136-B216,Female,0,Yes,No,27,No,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,One year,Yes,Mailed check,40.6589360450032,1088.8953242297093,No
+2070-B603,Female,0,No,Yes,64,No,No,DSL,No,Yes,No internet service,No internet service,No,No,One year,No,Electronic check,59.1677091478691,3793.2680205524725,No
+2213-C744,Male,0,Yes,No,48,Yes,No phone service,Fiber optic,No,Yes,No internet service,No,Yes,No,Month-to-month,No,Credit card (automatic),117.54329574088499,5653.211060840197,Yes
+1878-A252,Female,1,No,No,46,No,Yes,No,No internet service,Yes,Yes,No,Yes,Yes,Month-to-month,No,Mailed check,96.99737967256382,4458.936791061705,Yes
+5978-A354,Female,1,Yes,No,51,No,No,DSL,No internet service,Yes,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,76.04617931920409,3883.83228968134,No
+2940-C882,Female,0,Yes,No,53,No,No,No,Yes,Yes,No internet service,No,No internet service,No internet service,One year,No,Electronic check,29.823973146404818,1586.670749365889,No
+7818-C710,Female,0,No,Yes,59,Yes,Yes,DSL,No internet service,No internet service,No,No,No,No internet service,One year,No,Credit card (automatic),60.24006408160077,3574.260282172343,No
+4697-C489,Female,1,Yes,Yes,56,No,No,DSL,Yes,Yes,No internet service,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,44.6866771581997,2482.743903667184,No
+8381-B404,Male,0,Yes,Yes,46,No,No,DSL,No,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),25.38560849029172,1167.1788555328706,No
+8025-B682,Female,0,Yes,No,30,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,Yes,One year,Yes,Electronic check,72.74154106629115,2169.7436979695312,No
+1986-C857,Male,1,Yes,No,45,No,No,No,No internet service,No,Yes,No internet service,No,No,Month-to-month,Yes,Electronic check,107.61316283400805,4842.730308307697,No
+2625-A740,Male,1,Yes,Yes,25,No,Yes,No,No internet service,No,No internet service,No internet service,Yes,No,Month-to-month,No,Mailed check,86.14778675149957,2145.8660887616684,No
+4457-B776,Female,0,Yes,Yes,4,No,Yes,No,No,Yes,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,43.34287899204138,170.82234377449961,Yes
+2330-A345,Male,0,No,Yes,51,No,No,DSL,Yes,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),75.8952529988558,3861.9164295547903,Yes
+3847-C176,Male,0,No,No,53,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,113.04504547637038,5992.941084778987,Yes
+3564-A518,Male,0,Yes,No,32,Yes,Yes,DSL,No,Yes,No,No internet service,Yes,No,One year,No,Bank transfer (automatic),90.902962818755,2919.633751901995,No
+8381-C708,Female,0,No,Yes,49,No,Yes,No,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,No,Electronic check,87.54212689037978,4285.836869754287,Yes
+8699-B133,Female,0,No,Yes,37,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),115.54989570586538,4289.652363174305,No
+4792-B823,Male,0,No,Yes,26,Yes,No,Fiber optic,No,No,Yes,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),98.5367677739945,2572.395530203948,No
+5632-C980,Female,0,Yes,No,14,No,No,Fiber optic,No internet service,No internet service,No,No,No internet service,No internet service,Two year,No,Electronic check,31.980666081424587,468.0700153295125,No
+8438-A803,Female,0,No,No,60,Yes,No phone service,No,No,No,No,No,No,No,One year,No,Electronic check,53.18732624110824,3195.3531445870685,No
+4824-B906,Female,0,Yes,No,20,No,Yes,Fiber optic,No,No,No,No,No,No,One year,Yes,Mailed check,115.24664042413745,2304.316368066436,No
+4241-B217,Female,1,No,Yes,45,No,No,Fiber optic,No internet service,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,67.46539211689878,3020.09027329501,Yes
+9922-A763,Male,0,Yes,Yes,68,No,Yes,DSL,No internet service,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),29.46956325477913,1996.1134301090503,No
+3441-B946,Male,0,Yes,No,5,No,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,Yes,Mailed check,64.33979040707035,319.6199221403594,Yes
+3330-A161,Female,0,No,Yes,37,No,Yes,Fiber optic,No,Yes,No,No,Yes,No,One year,Yes,Electronic check,88.29782002411547,3266.124270580657,No
+3718-B709,Female,0,No,No,61,Yes,No,Fiber optic,No internet service,Yes,No,No,No,No,Month-to-month,No,Bank transfer (automatic),118.50359627896474,7252.206597039314,No
+5728-B227,Male,0,Yes,Yes,61,No,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,Two year,No,Bank transfer (automatic),50.80248431460179,3096.881775375145,No
+8679-C411,Male,0,No,Yes,45,Yes,No phone service,DSL,Yes,No,No,No internet service,No,No internet service,Two year,No,Mailed check,69.915730925367,3128.524358748809,No
+7594-B612,Female,0,No,Yes,12,No,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,106.65791081730428,1286.5406333754302,Yes
+9847-B548,Male,0,No,Yes,2,No,No,No,No internet service,No internet service,Yes,No,No internet service,No internet service,Two year,No,Electronic check,53.95435541476202,113.97369323221727,No
+2317-C140,Female,0,Yes,No,5,No,No,No,Yes,No internet service,No,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),29.230786437381152,141.56463514250697,Yes
+8078-C430,Female,0,Yes,Yes,7,Yes,Yes,DSL,No internet service,No,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),113.61805543765115,816.6030926410842,Yes
+5102-A193,Male,1,No,No,43,No,No,Fiber optic,No,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),67.33830107470676,2876.580735664961,Yes
+4750-C956,Male,0,No,No,32,No,Yes,DSL,Yes,Yes,Yes,No internet service,No internet service,Yes,One year,No,Mailed check,68.77976293258315,2213.4469848385397,Yes
+1339-C941,Female,0,No,No,49,No,No,No,No,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),80.68061453272031,3950.4391450625153,No
+5415-C141,Female,0,Yes,Yes,10,No,Yes,Fiber optic,No,Yes,No,Yes,No internet service,Yes,Two year,No,Electronic check,18.605430682174074,176.55012903894783,No
+3870-B631,Male,0,Yes,No,27,Yes,No,No,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.82868314466934,3043.3784276854467,Yes
+8245-B285,Female,0,No,No,69,No,Yes,Fiber optic,No internet service,No,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,54.57583401984144,3773.099514671972,Yes
+8141-C933,Male,0,No,No,40,Yes,No,No,No,Yes,No,No internet service,No,No internet service,Two year,Yes,Electronic check,58.14165216962704,2322.681699953101,No
+9056-A581,Female,1,No,Yes,15,No,No phone service,Fiber optic,No,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),35.74797937709012,533.0320537676893,No
+6700-B441,Male,0,No,Yes,67,Yes,No,Fiber optic,No,No internet service,No,Yes,No internet service,No,Month-to-month,No,Electronic check,56.25423713589234,3771.788076458489,No
+6260-C207,Male,0,No,No,47,Yes,Yes,Fiber optic,No internet service,No,No internet service,No internet service,Yes,No internet service,One year,No,Mailed check,99.04632484299323,4650.5576324614985,No
+3634-B521,Male,0,No,Yes,55,No,No phone service,Fiber optic,No,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,98.64916309183126,5438.7000552968075,Yes
+9117-B778,Female,1,Yes,No,63,No,No,No,No,Yes,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),112.297582509993,7075.624552060185,No
+7561-C137,Female,0,No,No,58,Yes,No phone service,No,Yes,No,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),58.77456200441998,3419.1002407733295,No
+8451-A422,Male,0,Yes,Yes,61,No,No,Fiber optic,No internet service,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),89.47651112673273,5460.146442180663,No
+5135-B218,Female,0,No,No,10,No,No phone service,Fiber optic,No,Yes,Yes,No,Yes,Yes,Two year,No,Bank transfer (automatic),69.22737429835948,700.9720929753381,No
+7622-C944,Male,0,No,Yes,17,No,Yes,No,Yes,No internet service,No,No internet service,No internet service,No internet service,Two year,No,Mailed check,99.05429034667266,1697.3780334109,No
+1018-C990,Male,0,Yes,Yes,18,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,No,No,Month-to-month,No,Mailed check,89.86047191786619,,No
+9889-B523,Female,1,Yes,No,54,No,No,Fiber optic,No internet service,No,No,Yes,Yes,Yes,Month-to-month,No,Mailed check,55.224243991270704,2987.0186424048206,Yes
+1888-A630,Female,0,Yes,Yes,25,No,Yes,Fiber optic,No internet service,No,Yes,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),52.085720342496096,1293.4775377059916,Yes
+6927-C874,Male,0,Yes,Yes,5,No,No phone service,DSL,No internet service,No internet service,Yes,Yes,No,No,Two year,No,Mailed check,43.62046753431074,216.37651499626926,No
+9167-C552,Female,0,No,No,3,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),76.1898369441081,228.30813213954468,Yes
+1845-A373,Female,0,Yes,No,28,No,Yes,DSL,No internet service,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,115.11620658518288,3217.5216960043344,No
+9998-A394,Male,0,No,Yes,58,Yes,No phone service,Fiber optic,No,No,No internet service,No,No,No internet service,One year,Yes,Electronic check,38.35670713056538,2217.287471342757,No
+8178-C596,Male,0,Yes,Yes,16,No,Yes,No,No,No internet service,Yes,No,No internet service,Yes,Two year,Yes,Electronic check,27.822871717884684,446.91095317825904,No
+2989-A745,Female,0,No,No,42,Yes,No,DSL,No,Yes,Yes,No,No internet service,Yes,Month-to-month,No,Mailed check,30.24976452866952,1260.6570338230426,Yes
+4920-C262,Male,0,No,Yes,65,No,No,DSL,No,Yes,Yes,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,96.95141696314008,6290.068097697379,No
+6091-C114,Male,0,No,Yes,33,No,No,Fiber optic,Yes,No,No,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),53.43553283059865,1746.4282250951721,Yes
+7684-A330,Female,0,No,Yes,7,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),40.79886618308416,290.39543022994326,Yes
+2858-B220,Male,0,No,Yes,12,Yes,No,DSL,No internet service,Yes,Yes,No internet service,No,No,One year,Yes,Electronic check,53.710833896536755,647.9424865399208,No
+3522-B833,Male,0,No,Yes,7,Yes,No,No,No,No,No internet service,No,No internet service,No,One year,No,Credit card (automatic),83.10574668936694,578.4934717931702,No
+5781-C822,Female,0,Yes,Yes,64,No,No,No,No,Yes,No internet service,No internet service,No internet service,No internet service,One year,Yes,Electronic check,73.20210604524252,4694.877099653208,No
+5479-B954,Female,0,No,Yes,42,No,No,Fiber optic,No internet service,Yes,No internet service,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),92.9807353553832,3895.202791352874,Yes
+8905-B349,Male,1,Yes,No,38,No,No,No,No,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,52.326951922418516,1992.2329141251225,Yes
+8483-C248,Male,1,Yes,No,58,No,No,No,No,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Electronic check,63.678871633200885,3693.916188330006,Yes
+7284-A713,Female,0,No,No,43,Yes,Yes,Fiber optic,No,No internet service,Yes,No,No internet service,Yes,Month-to-month,No,Mailed check,28.49782108077381,1217.9995030865462,No
+9327-C239,Female,0,Yes,No,8,No,No,No,Yes,No,No,No internet service,No,No internet service,One year,No,Credit card (automatic),25.592393926294534,199.81372711239123,No
+2143-B891,Female,0,No,No,36,No,No,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),64.7066519058321,2323.7445088094114,Yes
+7798-B906,Female,0,Yes,Yes,35,No,No phone service,DSL,No internet service,Yes,No,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),48.560459048315316,1702.1436063816507,Yes
+9318-B940,Male,0,No,Yes,27,No,Yes,Fiber optic,No internet service,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,No,Bank transfer (automatic),79.83645749968115,2161.5186412279463,Yes
+1042-B843,Female,0,Yes,Yes,41,No,Yes,DSL,No,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),22.571717627179478,921.1764843992125,No
+5891-C693,Female,0,No,Yes,42,No,Yes,DSL,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Mailed check,30.487520948756327,1273.3548346065893,No
+9022-A557,Male,0,No,No,41,No,Yes,No,No,No,Yes,No,Yes,No,Two year,No,Mailed check,105.20167651619272,4314.6409584491685,No
+9824-B453,Female,0,No,Yes,65,Yes,No,No,No internet service,Yes,Yes,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),75.16431796267,4869.163155898465,No
+6446-C881,Male,0,No,Yes,54,No,No,No,No internet service,No,No internet service,No internet service,No internet service,No,One year,No,Electronic check,89.81148063596834,4850.163529006713,No
+9903-B566,Female,0,Yes,No,71,No,No phone service,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),102.86819793008321,7319.259807881125,No
+6272-A814,Female,0,No,Yes,47,No,No phone service,No,Yes,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,64.86535146648025,3041.6318862224416,No
+4912-C492,Female,0,Yes,Yes,21,No,Yes,DSL,Yes,Yes,No internet service,No,No,No internet service,Two year,Yes,Credit card (automatic),94.73656858873134,1987.6993887626086,No
+4826-B144,Male,0,Yes,No,26,Yes,No phone service,No,No internet service,No,No,No internet service,No,No,Month-to-month,No,Electronic check,70.97085069688919,1855.4877356121433,Yes
+6213-C584,Male,0,Yes,Yes,66,Yes,No phone service,No,Yes,Yes,Yes,Yes,No internet service,No,One year,Yes,Mailed check,40.636251412507235,2689.539326636229,No
+7246-B779,Female,0,No,Yes,12,Yes,Yes,Fiber optic,No,No,No,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),52.184444964494425,626.8317303911816,No
+3492-B137,Male,0,Yes,Yes,44,Yes,Yes,Fiber optic,No,No,Yes,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),67.53021932609391,2970.744365087498,Yes
+3068-C704,Male,0,Yes,Yes,9,Yes,No phone service,DSL,No internet service,No,No,No internet service,No,No internet service,One year,No,Electronic check,50.09699799331321,438.51740618613724,No
+6439-A995,Male,0,Yes,Yes,8,Yes,No,Fiber optic,Yes,No internet service,No,Yes,Yes,Yes,Two year,No,Mailed check,51.970532980664785,420.67579205429627,No
+8213-A638,Male,0,No,No,53,No,No phone service,No,No,No,Yes,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),52.157979540501024,2750.9391655224404,No
+8486-A839,Male,0,No,No,26,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,One year,No,Mailed check,30.59541787513897,774.8290160324013,No
+3361-B991,Male,1,Yes,No,33,Yes,No,DSL,Yes,No,No,No internet service,No internet service,No internet service,Month-to-month,No,Electronic check,26.75658202483126,893.0482375139309,Yes
+3529-A580,Female,0,No,No,0,No,No,No,No,No internet service,Yes,No,Yes,No,One year,No,Credit card (automatic),22.922851988976085,3.86986298393111,Yes
+5342-B738,Female,0,No,No,31,Yes,Yes,DSL,Yes,No internet service,No,No internet service,Yes,Yes,One year,No,Mailed check,29.401104233950846,920.2315882030549,No
+7512-C182,Male,0,Yes,No,70,No,Yes,Fiber optic,No internet service,No internet service,No,No,No,No,Month-to-month,No,Credit card (automatic),52.79256275962961,3688.114296634726,No
+6383-C979,Female,0,Yes,Yes,66,No,No phone service,Fiber optic,Yes,Yes,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Credit card (automatic),77.93411648119724,5148.315327420773,No
+9742-B424,Female,0,No,No,19,Yes,No,DSL,No internet service,No,No,No,No internet service,Yes,Two year,Yes,Mailed check,37.1587661845456,701.6258785200375,No
+8994-C136,Female,1,Yes,No,34,No,Yes,No,Yes,Yes,No,Yes,Yes,No,Month-to-month,No,Mailed check,107.49488902326512,3651.5538002613966,No
+2121-A746,Female,0,No,Yes,16,Yes,No phone service,Fiber optic,No,No,Yes,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,99.49243433956467,1601.6164906749304,Yes
+5708-A864,Male,0,No,Yes,17,Yes,No,Fiber optic,No internet service,No,Yes,Yes,No internet service,No,Two year,Yes,Credit card (automatic),70.56297483732095,1198.0726593024422,No
+2480-B200,Female,0,No,No,44,No,No phone service,No,No internet service,Yes,No internet service,No,No,Yes,Month-to-month,No,Bank transfer (automatic),91.03308799674267,3998.492013935749,No
+2646-B270,Female,0,No,Yes,52,No,Yes,Fiber optic,No internet service,No internet service,No,No internet service,No,Yes,Month-to-month,Yes,Electronic check,55.06601673222522,2849.777685854596,No
+5906-A147,Male,0,No,No,67,Yes,Yes,DSL,Yes,No,No,No internet service,No,Yes,One year,Yes,Bank transfer (automatic),21.946168169675534,1474.0001611268654,No
+6314-A400,Male,0,No,Yes,64,No,No,Fiber optic,Yes,No internet service,No,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),109.13545117702026,6995.263637003565,No
+6873-B541,Female,0,Yes,No,0,No,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,One year,No,Mailed check,31.09324556991111,0.0,No
+3385-A643,Female,1,Yes,Yes,57,Yes,No,No,No internet service,No internet service,No,No internet service,No,No,Month-to-month,Yes,Mailed check,113.51770331115497,,No
+7751-C798,Female,0,No,Yes,25,Yes,Yes,DSL,No internet service,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,75.72420012074406,1883.6772165312668,No
+3950-A279,Female,0,No,No,19,No,Yes,No,Yes,No,No internet service,No internet service,No,Yes,Month-to-month,Yes,Electronic check,48.959087632653706,937.7156880533803,No
+2293-C991,Female,0,No,No,9,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No,No internet service,Two year,Yes,Bank transfer (automatic),68.05022464284039,612.781166432178,No
+7267-C799,Female,0,Yes,No,58,Yes,No phone service,Fiber optic,No,Yes,Yes,Yes,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),68.66379579677096,3985.1785179383473,Yes
+4945-B697,Male,0,No,No,40,Yes,No phone service,No,No,No,No internet service,Yes,Yes,No internet service,Month-to-month,No,Electronic check,20.590351483979482,816.6399558760564,No
+3344-A572,Female,0,Yes,No,4,Yes,No,No,Yes,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),53.97371511435593,219.47036909229223,No
+5161-B361,Female,0,No,Yes,64,Yes,No phone service,No,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),92.6065128540632,5920.839950246698,No
+1153-B394,Male,0,No,No,16,Yes,No phone service,DSL,No,No,No internet service,No,Yes,No,Month-to-month,No,Mailed check,69.51195348954616,1108.054520911389,Yes
+9955-A175,Male,0,Yes,No,21,Yes,Yes,Fiber optic,Yes,No,Yes,No,No,No,Month-to-month,Yes,Mailed check,42.795126759463216,883.5213854832491,Yes
+8237-B701,Male,0,Yes,Yes,40,No,Yes,No,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),51.92854093371287,2069.4201157399966,No
+5901-C534,Male,0,No,Yes,67,Yes,No phone service,Fiber optic,No internet service,No internet service,No,No,Yes,No,Month-to-month,No,Electronic check,104.98696650815289,7028.8718030169985,Yes
+5097-B965,Female,1,No,No,68,No,No phone service,DSL,Yes,No,Yes,No,No internet service,Yes,One year,Yes,Bank transfer (automatic),71.06774185009807,4835.734540933056,No
+5949-A493,Female,0,No,Yes,10,No,Yes,DSL,Yes,Yes,No,No internet service,No,No,One year,Yes,Mailed check,71.34938831639921,719.4504409197708,No
+8916-A342,Female,0,Yes,Yes,55,No,No phone service,DSL,No,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Electronic check,114.87747963462651,6312.182062140238,Yes
+7248-C467,Female,1,Yes,No,50,Yes,No,DSL,Yes,No internet service,Yes,No,No,Yes,Month-to-month,No,Bank transfer (automatic),50.49858060318266,2523.284584776844,No
+5847-C402,Female,0,Yes,Yes,20,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,Yes,No,One year,No,Credit card (automatic),66.44388307317595,1345.7415141081299,No
+1359-C505,Female,1,Yes,Yes,25,No,No,DSL,No,No internet service,No,No internet service,No internet service,No,One year,No,Mailed check,99.82721657094382,2496.991499904444,No
+5497-A679,Male,0,Yes,No,18,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),94.52068101314649,1696.0033337925977,Yes
+1803-C863,Female,0,Yes,No,59,No,Yes,No,No internet service,Yes,Yes,Yes,No,No,Two year,Yes,Credit card (automatic),44.96284190383159,2636.011184724171,No
+9138-B894,Male,0,No,Yes,70,Yes,No phone service,DSL,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,Yes,Credit card (automatic),33.434650284341274,2331.886294770197,No
+4770-C921,Male,0,No,Yes,46,Yes,No phone service,No,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),88.67080990683051,4069.9285595334322,Yes
+6772-A751,Female,0,Yes,No,70,No,Yes,DSL,No internet service,No internet service,No internet service,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),44.144445769123074,3109.889941042619,Yes
+4115-C356,Male,0,No,Yes,25,No,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,Yes,Two year,No,Bank transfer (automatic),110.97892076668623,2765.9884439442258,No
+3240-C199,Female,0,No,Yes,39,No,Yes,No,No internet service,No internet service,No internet service,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),31.23939324591722,1218.8467658741542,No
+1645-B907,Male,0,Yes,Yes,4,Yes,No,DSL,No internet service,No internet service,No internet service,Yes,Yes,No internet service,One year,Yes,Credit card (automatic),50.240677613545046,204.67028604296894,No
+8222-A693,Female,0,No,No,20,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),23.756118315953834,486.18761556926586,Yes
+6977-C234,Male,1,Yes,Yes,3,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,Yes,Electronic check,88.9321833397695,266.87679243790114,Yes
+2476-B434,Female,0,Yes,Yes,22,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,Month-to-month,No,Mailed check,107.82189621599753,2366.9785716759384,No
+7807-A305,Female,0,No,No,14,Yes,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No,Two year,No,Electronic check,82.1553899967662,1144.4100944389281,No
+3165-C997,Female,0,Yes,Yes,7,No,No,No,No internet service,Yes,No,No,No internet service,No internet service,Month-to-month,No,Mailed check,112.4941780589041,791.0230463391268,No
+6994-C613,Female,0,Yes,Yes,40,No,Yes,DSL,Yes,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Mailed check,31.16464983937157,1239.7425989994647,No
+5465-A363,Female,1,Yes,No,18,No,Yes,DSL,Yes,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,27.067259689901242,476.1688629908347,No
+8894-B864,Male,0,Yes,No,45,Yes,No phone service,No,Yes,No,No internet service,Yes,No,No internet service,Two year,Yes,Electronic check,102.51047948232076,4607.866533486131,No
+6549-A579,Male,0,Yes,No,27,Yes,Yes,No,Yes,No,No,No internet service,No,No,Month-to-month,Yes,Mailed check,104.22887312634403,2800.9347309992622,No
+2233-A872,Male,0,Yes,No,67,No,No phone service,No,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,101.76947247426638,,No
+4696-C841,Female,0,Yes,Yes,14,Yes,Yes,DSL,Yes,No,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,98.54597270464144,1385.609144965694,No
+7511-C474,Male,0,Yes,Yes,36,Yes,No phone service,No,No,No,No internet service,Yes,No internet service,No,Two year,Yes,Bank transfer (automatic),54.65395057583535,1983.7506591642182,No
+2479-B114,Female,0,No,No,0,No,No phone service,No,Yes,No,No internet service,Yes,Yes,No,Two year,No,Mailed check,40.10493940093447,4.854360367404885,No
+5332-C226,Female,0,No,No,66,No,No phone service,Fiber optic,Yes,No internet service,Yes,No,No internet service,No,One year,No,Credit card (automatic),111.5948040097779,7380.502994945767,No
+8451-B788,Male,0,No,Yes,23,No,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),49.10351837625757,1133.0555692944831,Yes
+5295-C490,Male,0,Yes,No,26,Yes,No,DSL,Yes,No,Yes,No,Yes,No,Month-to-month,No,Credit card (automatic),58.28997205748524,1522.8010867045693,Yes
+7086-A791,Female,1,Yes,Yes,39,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No,Yes,Two year,No,Electronic check,88.55567542488913,3432.3341513052646,No
+4830-B125,Male,1,No,No,62,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No,No internet service,No,Month-to-month,Yes,Electronic check,47.73228603939575,2950.2584384727747,No
+6374-C326,Female,0,No,Yes,60,Yes,No,No,Yes,No,Yes,No,Yes,Yes,Month-to-month,Yes,Electronic check,100.57258726688062,6034.724513765396,Yes
+2035-C943,Female,0,No,No,35,Yes,No,No,No,No internet service,No internet service,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,25.288479674994015,885.7086662726894,Yes
+8606-C409,Female,0,Yes,No,23,No,No phone service,Fiber optic,No internet service,Yes,No,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),97.76385807258792,2247.804925482794,No
+7689-A243,Female,0,No,Yes,23,Yes,No,Fiber optic,No,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Mailed check,78.73605792308932,1815.4592850019615,No
+1742-A411,Female,1,No,No,3,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,No internet service,One year,No,Bank transfer (automatic),75.83586123341608,232.44961307954804,Yes
+9071-A199,Male,0,Yes,Yes,66,Yes,Yes,DSL,Yes,No,No,Yes,Yes,No,Two year,No,Bank transfer (automatic),64.3168924334354,4253.566058777615,No
+4846-C238,Male,0,No,Yes,33,No,No phone service,DSL,No,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Electronic check,46.09308242648395,1527.7616552850118,No
+7367-B479,Female,0,Yes,Yes,56,No,No,DSL,No,No,Yes,No,No,No,Month-to-month,No,Bank transfer (automatic),64.88906368583929,3645.828440402775,No
+9850-B701,Female,0,Yes,Yes,48,No,Yes,Fiber optic,No,No,No internet service,Yes,Yes,No,Two year,Yes,Credit card (automatic),63.477865457878075,3059.0598781524122,No
+3531-B770,Male,0,Yes,Yes,52,Yes,No phone service,Fiber optic,No internet service,No,Yes,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),76.91729597269853,4001.446035069077,No
+2622-B730,Male,0,No,No,22,No,Yes,DSL,No internet service,No,No,No internet service,No,Yes,Two year,No,Electronic check,46.548215728480784,1044.8772339122204,No
+7686-B133,Female,0,No,No,68,No,Yes,DSL,No internet service,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,26.048355988602978,1784.8815125742185,No
+7070-A554,Male,0,Yes,Yes,52,No,No,Fiber optic,Yes,No internet service,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),32.8314893872334,1699.1679390914812,Yes
+8285-A975,Female,0,No,No,61,Yes,Yes,No,No internet service,Yes,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),88.51733186188807,5403.483276885745,No
+6942-A802,Male,0,No,Yes,40,No,No,DSL,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),20.51047912837182,801.9929837157167,No
+7018-C760,Female,0,No,No,56,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),104.32252598686571,5825.319472447657,No
+6876-A507,Male,0,No,No,59,Yes,No phone service,Fiber optic,No,No internet service,No internet service,Yes,No,No internet service,Two year,No,Mailed check,88.03693141173129,5189.184009988788,No
+5520-A225,Female,0,Yes,No,53,No,Yes,No,Yes,No internet service,Yes,No,No,No,One year,Yes,Credit card (automatic),95.44269740142548,5049.708512988913,No
+8450-A778,Male,0,No,No,69,Yes,No phone service,Fiber optic,No internet service,Yes,No,No internet service,Yes,No,Two year,Yes,Electronic check,102.26643713389421,7051.450732737958,No
+4475-C754,Male,0,Yes,Yes,56,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,No,Yes,One year,No,Electronic check,30.582399614983206,,No
+1349-A905,Female,0,Yes,Yes,9,Yes,Yes,DSL,No,No,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),100.90633464249166,920.4099148409222,Yes
+6464-A228,Male,0,No,No,39,No,No phone service,DSL,No,No internet service,No,No,No,Yes,One year,No,Bank transfer (automatic),68.96656498473516,2701.4135537694024,No
+4362-A949,Female,1,Yes,No,6,No,Yes,No,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),107.2451457946963,647.6028121378574,No
+4394-C321,Male,0,No,Yes,37,No,Yes,No,No internet service,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Electronic check,107.35195340656452,3961.151081852266,Yes
+4817-B892,Female,0,No,No,60,Yes,No phone service,Fiber optic,No internet service,Yes,No,No,Yes,No internet service,Month-to-month,No,Electronic check,20.679893397294105,1235.2197226246487,No
+3417-C102,Male,0,Yes,Yes,2,No,No phone service,DSL,Yes,No,No,No,Yes,No internet service,Month-to-month,No,Electronic check,56.72795415609566,119.82774156626344,Yes
+5542-A233,Female,0,Yes,Yes,50,Yes,No,No,Yes,No internet service,No,Yes,Yes,Yes,Two year,Yes,Bank transfer (automatic),71.15307898445997,3549.392784207595,No
+9850-B917,Male,0,Yes,Yes,46,No,No phone service,No,No internet service,No internet service,No,No internet service,No,No,Two year,Yes,Bank transfer (automatic),86.42518902318164,3962.889527690717,No
+3858-A776,Female,0,Yes,No,67,Yes,No,No,No,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),47.01171779175546,3154.7082633036575,No
+1422-A115,Male,0,No,Yes,37,Yes,No phone service,Fiber optic,Yes,No,No,No internet service,No,No internet service,Month-to-month,Yes,Electronic check,43.59029719679755,1612.3573699156643,Yes
+6869-A702,Female,0,No,No,35,No,Yes,DSL,No internet service,Yes,No,No internet service,No,No,Month-to-month,No,Mailed check,56.56720476844925,1977.7429764976525,Yes
+6304-A278,Female,0,No,Yes,40,No,No phone service,No,No internet service,No,No,No,Yes,No,Two year,Yes,Credit card (automatic),68.5943385208644,2754.8715601910994,No
+5347-A229,Female,0,Yes,No,68,No,Yes,DSL,No,No internet service,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),113.84019625624404,7752.021426261099,No
+7897-C216,Male,0,Yes,No,12,No,Yes,No,No,Yes,Yes,Yes,Yes,No internet service,One year,Yes,Electronic check,94.84190090309247,1155.9139907445028,No
+2041-B559,Female,0,Yes,No,57,No,Yes,No,No,Yes,No,No internet service,No internet service,Yes,Two year,No,Bank transfer (automatic),61.39677727723938,3493.1021869025803,No
+6931-C707,Male,0,No,Yes,49,Yes,No,DSL,No,No,Yes,No internet service,No,Yes,Month-to-month,No,Mailed check,23.713800933238467,1166.2735815375859,Yes
+2786-B615,Female,0,Yes,Yes,29,No,No phone service,DSL,No,Yes,No internet service,Yes,No,No,Two year,No,Mailed check,35.18631951044782,1020.5933505085602,No
+4629-C144,Male,0,No,No,61,No,Yes,DSL,Yes,Yes,Yes,Yes,No,Yes,Two year,No,Bank transfer (automatic),64.07040464410142,3911.6778416076395,No
+9543-B569,Female,0,Yes,No,24,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,Yes,Yes,Two year,No,Credit card (automatic),100.03950295991977,2389.6042592802255,No
+1510-A590,Male,0,No,No,26,No,No,No,Yes,No internet service,No,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),56.50990133557306,1455.2327013805475,No
+7580-B802,Male,0,No,Yes,50,No,No phone service,Fiber optic,Yes,Yes,Yes,Yes,No,No internet service,Month-to-month,No,Mailed check,72.3689133998785,3618.0435086316365,No
+2768-B829,Female,0,Yes,Yes,56,Yes,No phone service,DSL,Yes,Yes,No,Yes,No,No,Two year,No,Mailed check,107.87639105155276,6032.652772987213,No
+8267-A182,Male,0,Yes,Yes,46,No,No,No,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),110.0865240723762,5073.3621835348185,No
+6277-C251,Male,0,No,Yes,38,No,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,No,One year,Yes,Credit card (automatic),39.935387142490285,1502.537937741045,No
+2076-A381,Female,0,No,No,15,No,No phone service,No,No,Yes,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Mailed check,22.631289640155735,325.28733572987323,No
+9984-C432,Male,0,Yes,No,21,Yes,No,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),48.943758362637254,1023.6523008628938,No
+7240-C643,Male,0,Yes,Yes,53,No,No phone service,DSL,No internet service,Yes,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Mailed check,88.1781326399909,4658.0602798601885,Yes
+5831-B617,Male,1,No,Yes,20,Yes,No phone service,Fiber optic,Yes,Yes,Yes,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),113.83677619811478,2293.495555283269,No
+8048-A912,Female,0,Yes,No,71,No,Yes,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),25.99171599840345,1843.582662147282,No
+2874-C766,Male,1,No,Yes,15,Yes,Yes,No,No,No internet service,Yes,No internet service,No internet service,Yes,One year,Yes,Mailed check,21.112622960201787,310.66133734938654,No
+4522-B562,Female,0,No,Yes,58,No,No phone service,No,No,No,No,No,No,No,Month-to-month,No,Mailed check,107.10679490506504,6216.873744750035,No
+4743-B447,Male,0,Yes,Yes,30,Yes,No phone service,No,No,No,Yes,No,Yes,Yes,One year,Yes,Mailed check,93.43859954486568,2811.996471706178,No
+8430-B525,Male,0,Yes,Yes,41,Yes,No phone service,DSL,Yes,No,No,Yes,No internet service,Yes,One year,No,Mailed check,117.97098220513531,4838.87985942139,No
+2557-B537,Male,1,Yes,Yes,31,Yes,No phone service,Fiber optic,Yes,No,No,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),58.12768458729814,1801.2773072773218,No
+6120-C361,Female,0,Yes,Yes,58,Yes,No phone service,DSL,No,No internet service,No,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),60.06311596624532,3473.825996795187,No
+7132-A803,Male,0,Yes,No,33,Yes,No phone service,DSL,No internet service,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),35.567339648393684,1180.0313015862039,Yes
+8770-A193,Male,0,No,Yes,8,Yes,No,DSL,No internet service,No,No,Yes,No,No,Month-to-month,Yes,Electronic check,29.892638836032518,253.3081415901221,No
+2398-A542,Female,0,No,Yes,10,No,No phone service,No,No,No,Yes,Yes,No,Yes,One year,No,Credit card (automatic),76.41116006431892,761.9144030945163,No
+2582-C856,Male,1,Yes,No,9,No,No,No,No internet service,No internet service,No,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,54.86064263013067,485.2579286680658,No
+7105-A669,Female,0,Yes,No,16,Yes,No,No,No,No internet service,No internet service,No,No,No,Month-to-month,Yes,Mailed check,26.32180301849713,422.963805970961,No
+1982-C675,Female,0,Yes,No,67,Yes,No phone service,Fiber optic,No internet service,Yes,No internet service,Yes,No internet service,No,One year,No,Bank transfer (automatic),107.39220048709365,7195.30393157528,No
+6400-C225,Male,0,No,Yes,47,Yes,No phone service,No,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),38.18482505905797,1782.5232539499843,No
+7730-B994,Female,1,Yes,No,51,Yes,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No internet service,No internet service,Two year,Yes,Mailed check,93.48272687385504,4762.592183574528,No
+7929-C152,Male,1,Yes,Yes,24,No,No,No,Yes,No,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,46.61397390987017,1136.6202315166668,No
+5712-C419,Female,0,No,Yes,20,Yes,No phone service,No,No,No,Yes,No,Yes,No,Two year,No,Mailed check,99.9469354906563,1985.463161142035,No
+6761-A691,Female,0,No,Yes,64,No,No phone service,DSL,No,No,No,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),30.148882563479233,1922.6222805284267,No
+9313-A258,Male,1,Yes,No,62,No,No,DSL,No internet service,Yes,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),94.23519682728703,5833.095069546558,No
+8900-A967,Female,0,Yes,No,50,Yes,No,DSL,No,No,No,No,Yes,Yes,Month-to-month,No,Credit card (automatic),28.1109468270015,1396.9443429281587,No
+2773-B965,Female,0,Yes,No,35,Yes,No,Fiber optic,No,No,No internet service,Yes,Yes,No,Month-to-month,No,Electronic check,63.1650366796228,2206.321519845203,Yes
+7022-A880,Female,1,No,No,65,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),92.01743723526026,5985.61724130653,No
+5564-C331,Female,0,Yes,No,14,No,No,No,Yes,No,Yes,No,No,Yes,Month-to-month,Yes,Bank transfer (automatic),35.65844730928351,512.3038876361804,No
+8030-C885,Female,0,Yes,Yes,38,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No,One year,No,Bank transfer (automatic),46.95933137909566,1786.4878083449182,No
+1430-C773,Male,0,Yes,Yes,69,Yes,No phone service,No,No internet service,No,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),105.15908270526586,7249.132888451709,No
+5381-A284,Female,1,No,Yes,0,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,Yes,No internet service,No internet service,One year,No,Credit card (automatic),107.20449175121843,15.399151458903244,No
+5477-C880,Male,1,No,Yes,22,No,No,Fiber optic,No internet service,No,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),22.766012971498988,480.16665016293604,Yes
+6062-B459,Female,1,Yes,No,38,No,No phone service,Fiber optic,Yes,No,No,Yes,No internet service,Yes,Two year,Yes,Credit card (automatic),35.143103827974016,1342.1727269911341,Yes
+1100-A990,Male,0,Yes,No,56,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,No,Month-to-month,No,Credit card (automatic),30.055929997422332,1672.8644936653625,Yes
+3347-C773,Male,1,No,Yes,33,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No,Month-to-month,No,Electronic check,36.30915601245595,,No
+7566-A245,Female,1,No,No,40,No,No phone service,DSL,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),115.75386629278039,4635.785650986722,No
+1502-A864,Female,0,No,No,72,Yes,Yes,DSL,No internet service,No,No,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,73.69135250344087,5289.723619150577,No
+9691-A485,Female,0,No,Yes,12,Yes,Yes,Fiber optic,No,No,Yes,No,Yes,No internet service,Month-to-month,No,Electronic check,65.29529524072015,784.960081071152,Yes
+7878-B449,Male,0,No,Yes,69,No,No,No,No,Yes,No internet service,No,No,No internet service,Month-to-month,Yes,Mailed check,117.18897099580792,8088.223769389881,No
+3578-B419,Female,0,No,No,5,No,No,No,Yes,No,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),74.22409105100391,385.7438320766532,No
+6314-C710,Male,0,No,No,51,Yes,No,No,No internet service,Yes,No,No,No internet service,Yes,Two year,No,Credit card (automatic),84.69235169822522,4346.461429781712,No
+2391-A259,Male,0,No,Yes,2,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Mailed check,51.69343987794261,87.85718169850968,Yes
+3579-C150,Male,0,No,Yes,62,Yes,No phone service,No,No internet service,No internet service,Yes,No,No internet service,No internet service,Two year,No,Credit card (automatic),56.65254388320662,3526.6292575971356,No
+2336-B553,Female,0,Yes,Yes,48,Yes,Yes,DSL,No,No internet service,No internet service,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),77.98814307281184,3743.0520651535703,No
+7947-B721,Female,0,Yes,No,46,Yes,Yes,No,No internet service,Yes,No internet service,No internet service,No,No,Two year,Yes,Electronic check,25.26347129204671,1154.0339670428275,No
+8242-B379,Male,0,Yes,Yes,54,No,No,Fiber optic,Yes,No,No,No internet service,Yes,No,Month-to-month,No,Mailed check,43.966230047499906,2377.8669542675466,Yes
+4531-C216,Male,0,No,Yes,63,No,Yes,No,No internet service,No internet service,No,No,Yes,No,Month-to-month,No,Electronic check,38.02958082076086,2382.8406777510713,No
+6655-B213,Female,0,Yes,No,64,No,Yes,DSL,No,No,Yes,Yes,No internet service,No,Month-to-month,No,Mailed check,19.84728601057036,1257.8001783384627,No
+5640-C794,Male,0,No,No,66,No,Yes,Fiber optic,Yes,No,No internet service,No,No internet service,No,One year,Yes,Electronic check,72.20857768730241,4748.414540979643,No
+8972-C783,Female,0,No,No,14,Yes,Yes,No,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),74.63581037214985,1050.36223531133,No
+6053-A325,Male,0,Yes,No,31,Yes,Yes,Fiber optic,No,Yes,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),56.835891915244524,1765.1827676227733,Yes
+7475-C156,Female,0,No,No,67,Yes,No,Fiber optic,Yes,No,Yes,No,No internet service,Yes,Month-to-month,No,Mailed check,45.257110681211486,3024.0825786905657,Yes
+1125-A408,Male,1,Yes,Yes,17,No,No,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),83.7820175374598,1439.530316273733,No
+4460-A882,Female,0,Yes,Yes,42,No,Yes,No,No,No,No,No internet service,Yes,No internet service,One year,No,Electronic check,31.783245719137916,1328.2667633054446,No
+5186-B435,Male,0,Yes,No,34,No,No,Fiber optic,No internet service,No,Yes,No,No internet service,Yes,Month-to-month,No,Mailed check,70.37081067935108,2405.4374590393923,Yes
+2965-A609,Female,0,No,No,57,Yes,No phone service,No,No internet service,No,Yes,Yes,No internet service,Yes,One year,Yes,Bank transfer (automatic),95.4414355739673,5441.382636486472,No
+8055-A232,Female,1,Yes,No,32,No,Yes,DSL,Yes,No,No internet service,No,Yes,No internet service,One year,Yes,Bank transfer (automatic),34.761947387223465,1105.618633161038,No
+7229-C820,Male,0,No,No,13,Yes,No phone service,No,Yes,No,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,93.95258362887978,1220.2337731429548,No
+4770-C672,Male,1,Yes,No,33,Yes,No,DSL,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),94.7098481699165,3112.8875642182825,No
+6802-A506,Female,0,Yes,Yes,60,Yes,No,No,Yes,Yes,No internet service,No,Yes,No internet service,One year,No,Bank transfer (automatic),24.272628147160717,1458.5250224600857,No
+1693-B119,Male,1,Yes,Yes,3,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,20.137824771761775,60.71897510892244,Yes
+8532-A982,Female,0,No,Yes,58,Yes,No,No,No internet service,Yes,No,No internet service,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),116.13050830181358,6740.843956116359,No
+6129-C539,Male,1,No,Yes,28,Yes,Yes,Fiber optic,No internet service,Yes,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),37.6849572796319,1063.9703277605406,No
+7626-C755,Female,0,No,No,5,No,No phone service,DSL,No,Yes,No internet service,No internet service,Yes,Yes,One year,Yes,Bank transfer (automatic),100.87499051456035,505.53111034133383,No
+7843-B217,Female,0,Yes,Yes,48,Yes,Yes,No,No internet service,No,Yes,Yes,No,No internet service,One year,No,Bank transfer (automatic),74.7159906310525,3571.6043337427454,No
+7636-A432,Female,0,Yes,No,39,Yes,No phone service,Fiber optic,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),44.82945183246818,1757.6722547909894,Yes
+3815-C571,Female,0,No,No,64,No,No,DSL,No internet service,No internet service,No,No,No internet service,No,Month-to-month,No,Mailed check,31.312028880190667,2004.1164879999994,No
+6928-A547,Female,0,No,No,68,Yes,No phone service,DSL,Yes,No internet service,No,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),68.16606599456162,4616.351861519556,No
+2734-A546,Female,1,No,Yes,26,No,No phone service,No,No,No internet service,No,Yes,Yes,No internet service,Two year,Yes,Credit card (automatic),59.18915856875971,1542.0142708273988,No
+7560-C180,Male,1,No,No,5,No,Yes,DSL,No,No,Yes,Yes,No,No internet service,Month-to-month,Yes,Electronic check,88.48805155426531,446.29149751040944,Yes
+7484-B863,Male,0,No,Yes,12,No,No,Fiber optic,No internet service,Yes,Yes,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),109.11893922954654,1305.8424743452554,No
+6562-A441,Male,0,No,Yes,63,Yes,Yes,DSL,No internet service,Yes,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),99.17743273982556,6246.199894040639,No
+3754-A622,Female,0,Yes,No,61,Yes,No,DSL,Yes,No,Yes,Yes,No,No internet service,One year,No,Electronic check,45.83243104558359,2789.825642666632,No
+2868-C622,Female,0,No,No,18,No,Yes,Fiber optic,Yes,No internet service,No,Yes,No,No internet service,Month-to-month,No,Bank transfer (automatic),106.58278845445673,1922.6514589753774,Yes
+4176-B459,Female,0,Yes,No,42,Yes,No phone service,DSL,No internet service,No internet service,No internet service,Yes,Yes,No internet service,One year,No,Bank transfer (automatic),102.00582706751271,4285.644650685463,No
+3419-A205,Female,0,Yes,Yes,19,Yes,Yes,DSL,No internet service,No internet service,No internet service,Yes,No,Yes,Month-to-month,No,Credit card (automatic),111.6281914890377,2111.8533512888052,No
+3399-B302,Male,0,No,No,67,No,No,DSL,No,No,No,Yes,Yes,No,One year,No,Electronic check,64.34541251431776,4327.322344247172,No
+3842-C256,Male,0,No,Yes,43,No,No,DSL,No,No internet service,No,No,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.49180482714455,4099.489576873956,No
+2234-A891,Female,0,Yes,No,22,Yes,No phone service,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Electronic check,77.71163558512887,1682.5907982946867,No
+9095-B872,Male,0,No,No,1,No,No,DSL,No internet service,No,No internet service,No,No,No,Month-to-month,Yes,Mailed check,49.45552663122308,44.74878426863171,No
+8354-C678,Male,0,No,Yes,21,No,Yes,Fiber optic,No internet service,Yes,No,No,No internet service,Yes,Two year,No,Mailed check,118.19031575554772,2492.3060065468653,No
+6295-C423,Female,0,Yes,Yes,56,No,No phone service,DSL,No internet service,No,No,Yes,No internet service,Yes,One year,Yes,Mailed check,22.099900417385967,1235.5291030081146,No
+3473-B169,Male,1,Yes,Yes,71,Yes,No,DSL,No,No,Yes,No,Yes,Yes,Month-to-month,Yes,Mailed check,34.558393542187005,2437.2981437144344,No
+8682-B746,Female,0,Yes,Yes,6,Yes,No,DSL,No internet service,No,Yes,Yes,No,No,One year,Yes,Credit card (automatic),107.95050743445543,637.422130168234,No
+5961-B705,Male,0,No,Yes,55,Yes,Yes,DSL,Yes,No,No internet service,No,Yes,No internet service,One year,Yes,Mailed check,24.33656576296967,1327.7012528055914,No
+1920-B619,Female,0,Yes,Yes,66,No,Yes,Fiber optic,No internet service,Yes,No,Yes,Yes,No,Two year,Yes,Mailed check,107.37547706802393,7081.0286240387195,No
+2215-B572,Female,0,No,No,15,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,Two year,Yes,Electronic check,90.12975834384919,1349.329325393136,No
+8404-A158,Female,1,Yes,No,50,No,No,Fiber optic,No internet service,No,Yes,No,Yes,No,One year,No,Bank transfer (automatic),21.936742542151503,1101.7756731969146,No
+7041-B178,Female,0,Yes,Yes,71,Yes,Yes,No,No internet service,Yes,Yes,No,No,Yes,Month-to-month,Yes,Electronic check,61.39666430684475,4360.44755283559,No
+2479-C708,Male,0,Yes,No,11,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,No internet service,One year,Yes,Credit card (automatic),94.07438323772483,1036.5822534356942,No
+9307-B573,Female,0,No,Yes,52,No,No,DSL,Yes,No internet service,Yes,No internet service,Yes,No,One year,No,Mailed check,76.85157860539536,4014.0756187381685,No
+1672-B929,Female,1,No,No,4,Yes,No,Fiber optic,Yes,No internet service,No,No internet service,Yes,No,Two year,Yes,Bank transfer (automatic),112.30506484242802,457.82855277286126,No
+4084-B719,Female,1,Yes,No,26,No,No phone service,No,No internet service,No,No internet service,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),105.44822530765599,2749.381904635429,Yes
+8792-C254,Male,0,Yes,Yes,11,Yes,No phone service,DSL,No,No,No,No,Yes,No internet service,Month-to-month,No,Mailed check,51.68108735108167,550.36034140092,Yes
+2013-B205,Female,0,Yes,Yes,16,Yes,Yes,Fiber optic,No internet service,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Mailed check,26.75503314976908,420.56247442139886,Yes
+6626-C186,Male,0,No,Yes,5,No,No,DSL,No internet service,No internet service,Yes,No internet service,No internet service,Yes,One year,Yes,Credit card (automatic),113.14783248438796,549.7689224641911,No
+9266-C276,Female,1,Yes,No,4,No,No,DSL,No internet service,No internet service,No,Yes,No,No internet service,Two year,No,Credit card (automatic),70.23732016067663,,No
+1641-A824,Male,0,No,Yes,56,No,No,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,25.726961249380828,1448.6584970922074,No
+8172-B636,Male,1,Yes,No,27,Yes,No phone service,Fiber optic,No,No internet service,No,Yes,Yes,No,One year,No,Mailed check,100.31584914260759,2704.599641311229,No
+9564-C262,Female,0,Yes,Yes,68,Yes,Yes,DSL,No,No internet service,No,Yes,Yes,Yes,One year,Yes,Mailed check,105.53490030388181,7187.097636615563,No
+6962-B389,Male,0,Yes,No,58,Yes,No,DSL,Yes,Yes,No,No internet service,Yes,No internet service,One year,No,Mailed check,82.51217633774539,4792.63757960986,No
+7347-B893,Female,0,Yes,No,32,No,No phone service,Fiber optic,No,No internet service,No,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),63.22465105147716,2023.6933613809895,No
+6543-C712,Female,0,Yes,Yes,61,No,No,DSL,Yes,No,No,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),84.79838773851905,5183.662116143866,No
+1857-C762,Female,0,Yes,No,49,No,Yes,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,89.27171141836492,4387.958019597579,No
+6482-A437,Male,0,No,No,18,Yes,No,Fiber optic,No,No,No internet service,No,No internet service,No,One year,No,Mailed check,107.99951078763978,1948.535066881774,No
+2548-C794,Male,0,Yes,Yes,68,Yes,Yes,DSL,No,No internet service,Yes,No internet service,Yes,Yes,Month-to-month,No,Bank transfer (automatic),114.31409887766118,7775.658394817181,No
+7333-B358,Female,0,No,No,65,No,Yes,DSL,No,No,No internet service,Yes,No,No,Month-to-month,No,Electronic check,69.93925370528659,4552.385178936378,No
+3463-B183,Female,0,Yes,Yes,46,Yes,No,No,Yes,Yes,No internet service,No internet service,Yes,No internet service,Two year,Yes,Mailed check,98.49870061941954,4516.874361619574,No
+3317-B417,Male,0,Yes,Yes,38,No,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No,No,Month-to-month,No,Bank transfer (automatic),115.18321037716132,,Yes
+7421-A709,Female,1,No,Yes,67,Yes,Yes,No,No,No,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),33.44995548377008,2240.9071123154317,No
+2388-B672,Female,1,Yes,Yes,32,Yes,No phone service,No,No,Yes,No internet service,No internet service,No,No internet service,One year,Yes,Electronic check,20.085932151772507,639.0623857481546,No
+7171-C910,Female,1,No,No,12,No,Yes,No,No,Yes,No,Yes,No,No,Month-to-month,Yes,Credit card (automatic),105.58085917125354,1259.0753521077288,No
+6381-A786,Male,1,No,No,53,Yes,No,DSL,Yes,No,Yes,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),37.874969991339654,2017.3538617573613,Yes
+9624-A761,Male,0,Yes,No,6,Yes,No,DSL,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),22.519116046495995,136.81527819441513,Yes
+7937-C470,Male,0,No,Yes,13,No,No phone service,No,No internet service,No,No,No,No internet service,Yes,Month-to-month,No,Mailed check,34.33966183457318,449.0255111713754,Yes
+1298-B416,Female,0,No,No,18,No,Yes,No,No,Yes,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),56.853548579998815,1037.609675152645,No
+3953-A449,Female,0,Yes,No,53,Yes,Yes,No,Yes,No internet service,Yes,No,Yes,No,Month-to-month,No,Mailed check,40.286203010054294,2133.215475980309,No
+8967-A331,Female,0,No,Yes,19,No,Yes,DSL,No internet service,No internet service,No,No internet service,No,No,Two year,Yes,Mailed check,48.927989724594525,925.744012335188,No
+3253-A179,Male,0,Yes,Yes,28,Yes,No,No,No,No internet service,No,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),116.26705216871966,3269.090391968543,Yes
+5846-A619,Female,0,Yes,No,23,No,Yes,No,Yes,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Credit card (automatic),89.0427571883388,2033.0760215346368,No
+9843-C639,Female,0,Yes,Yes,62,Yes,No phone service,Fiber optic,No,No internet service,Yes,No,No,No,Month-to-month,Yes,Credit card (automatic),89.825268689447,5569.678569945513,Yes
+1618-C444,Female,0,Yes,Yes,56,Yes,No,Fiber optic,No,No,No internet service,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),27.765880160156243,1547.5128646341755,No
+3147-C485,Female,0,No,Yes,7,No,No,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No,One year,No,Mailed check,91.82588616718051,645.7079943584819,No
+3527-A285,Male,0,Yes,Yes,61,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No internet service,No,One year,No,Mailed check,92.55410546200814,5651.5200825297115,No
+3712-C548,Male,0,Yes,No,28,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),84.55437434986653,2373.7983891191034,No
+1715-B473,Female,1,No,Yes,16,No,No,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Month-to-month,Yes,Mailed check,41.207847747786445,669.5879547835679,Yes
+4891-B725,Male,0,Yes,Yes,65,No,No,DSL,No,Yes,No internet service,Yes,No,Yes,Month-to-month,Yes,Mailed check,60.765135997759586,3947.208566586264,No
+5668-C902,Male,0,Yes,Yes,5,Yes,Yes,Fiber optic,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,One year,Yes,Electronic check,103.30078369429734,514.6017056501139,No
+8355-A646,Female,1,No,Yes,57,No,Yes,DSL,No,No internet service,No,Yes,Yes,Yes,One year,Yes,Electronic check,85.60526374873295,4884.7660558212965,No
+4918-B928,Female,1,No,Yes,68,No,No phone service,No,Yes,No,No internet service,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),91.89326791749018,6257.617235322394,No
+8684-A476,Male,1,No,Yes,27,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),77.2811272126438,2073.587396569999,Yes
+8218-B887,Female,0,No,Yes,61,Yes,No phone service,DSL,No internet service,No,No internet service,Yes,Yes,Yes,One year,Yes,Electronic check,63.43345321073373,3872.5818576015545,No
+5616-B614,Male,0,No,Yes,40,No,No,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No internet service,Two year,Yes,Mailed check,94.53472701174438,3777.4366372154936,No
+9641-B265,Female,0,No,No,68,No,No phone service,No,Yes,No,No internet service,No internet service,No,No internet service,Two year,No,Mailed check,25.076544343813648,1706.0765410831716,No
+4271-C241,Male,0,No,Yes,40,No,No phone service,DSL,Yes,No,Yes,Yes,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),85.90265364441655,3432.5392592437847,Yes
+5096-A756,Female,0,Yes,No,48,Yes,No phone service,DSL,No internet service,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),118.46905303899325,5679.287079808753,Yes
+8873-B667,Male,0,No,Yes,48,Yes,No,DSL,No internet service,Yes,Yes,Yes,No,Yes,Month-to-month,No,Credit card (automatic),96.65928891153717,4629.4606351255525,Yes
+2680-C966,Male,0,No,Yes,70,Yes,Yes,No,No internet service,Yes,Yes,No,Yes,No,One year,No,Credit card (automatic),47.451632913534254,3320.104063797695,No
+9452-A391,Male,0,No,Yes,2,Yes,No,No,Yes,No,Yes,Yes,No,No internet service,Two year,No,Bank transfer (automatic),46.17085921789075,95.92577635334045,No
+2374-A379,Female,0,Yes,Yes,9,Yes,Yes,No,No internet service,No internet service,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),85.30547036464262,761.7191552810463,Yes
+8361-C250,Male,0,Yes,No,34,Yes,No phone service,DSL,No internet service,No,No,Yes,No,No,Month-to-month,No,Mailed check,108.2833528293573,3693.5321158668166,Yes
+8167-A327,Male,0,No,Yes,1,Yes,No phone service,No,Yes,No,No,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,76.33394895520821,100.91845238522238,Yes
+8391-B127,Female,0,No,Yes,23,No,No phone service,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Electronic check,71.25392986059086,1642.9716380034292,No
+7797-A505,Female,0,No,No,37,No,No phone service,No,No,No internet service,No internet service,Yes,No,No,Month-to-month,No,Electronic check,34.36860545128897,1271.226046452225,Yes
+9224-B341,Male,1,Yes,No,21,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,No,Yes,One year,No,Mailed check,90.15342401366156,1884.099276882646,No
+7326-A483,Male,0,Yes,Yes,25,Yes,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Month-to-month,No,Electronic check,88.83101127360803,2224.4758627238803,No
+4678-A426,Female,0,No,No,42,Yes,Yes,No,No,No internet service,No internet service,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),115.42861492955169,4862.773584374854,No
+2623-C765,Female,0,Yes,No,54,No,No phone service,Fiber optic,No,No,Yes,No,No,No internet service,One year,No,Bank transfer (automatic),48.419314522719276,2634.127778327814,No
+6493-A240,Female,0,No,No,38,Yes,No,Fiber optic,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Credit card (automatic),94.27277037493694,3596.3268322324707,Yes
+1627-B949,Female,0,Yes,Yes,28,No,No,DSL,No internet service,Yes,Yes,No,No internet service,No internet service,Month-to-month,No,Electronic check,61.87355875036172,1740.8927412931891,Yes
+8740-C951,Female,0,Yes,Yes,19,No,No phone service,Fiber optic,No,No internet service,No,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),74.37651555742156,1417.2557292914812,Yes
+3273-C580,Male,0,No,Yes,40,No,Yes,Fiber optic,No,No,Yes,No internet service,No internet service,No,Two year,Yes,Credit card (automatic),100.3036124878561,4001.65781920544,No
+8349-C105,Female,0,No,No,53,No,No,DSL,Yes,Yes,No,No,Yes,No internet service,One year,Yes,Electronic check,40.56050202440704,2148.709391815272,No
+2298-A362,Male,1,No,Yes,19,No,No,DSL,No internet service,Yes,No,Yes,Yes,No,Month-to-month,No,Electronic check,52.7083083225052,999.2990767528875,No
+4533-A661,Male,0,No,No,18,Yes,No,DSL,Yes,No,No,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),95.96752135485849,1726.4833440333803,No
+9647-B213,Male,0,Yes,Yes,65,Yes,No phone service,Fiber optic,Yes,No,No,No,No internet service,No,Month-to-month,Yes,Credit card (automatic),75.58102048643002,,No
+5720-A408,Female,1,Yes,Yes,29,No,No,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,Yes,One year,No,Credit card (automatic),27.538503148959556,806.1952110041908,No
+2996-A344,Male,1,Yes,No,52,Yes,No,Fiber optic,No,Yes,No,No,No internet service,Yes,One year,No,Bank transfer (automatic),61.483679611240554,,No
+7878-C912,Male,0,No,Yes,33,No,No,DSL,Yes,No,Yes,Yes,No internet service,No,Two year,No,Bank transfer (automatic),77.20664795378815,2544.2690784035735,No
+8489-A213,Female,0,Yes,No,21,No,No,No,No internet service,Yes,Yes,No internet service,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),109.65649030272779,2295.626030115173,No
+9189-C648,Male,0,No,No,66,Yes,Yes,Fiber optic,No,No internet service,No,No internet service,No,Yes,Two year,No,Electronic check,37.193049018833186,,No
+1269-C627,Male,0,Yes,Yes,5,Yes,No phone service,No,No internet service,No,Yes,No,No,No internet service,Two year,No,Bank transfer (automatic),99.24827332193703,511.2091118702432,No
+4963-C247,Female,0,No,No,26,Yes,No phone service,DSL,Yes,No internet service,No internet service,No,Yes,No,Two year,Yes,Bank transfer (automatic),31.377760549197433,815.7196913130279,No
+5772-B101,Male,0,No,Yes,9,Yes,Yes,Fiber optic,No,Yes,Yes,Yes,No,No,One year,Yes,Mailed check,42.594683837618625,386.16956002323053,Yes
+6780-A684,Male,0,Yes,Yes,72,Yes,Yes,No,No,No internet service,Yes,No internet service,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),42.706060290757364,3094.188946564931,No
+7825-A780,Male,1,No,No,47,No,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),106.43665918883768,5014.557407267884,Yes
+2402-C469,Female,1,No,Yes,69,Yes,No,Fiber optic,No,Yes,No,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,38.251278047506204,2645.21563345345,Yes
+2108-C657,Female,0,Yes,No,58,Yes,No,Fiber optic,Yes,No internet service,Yes,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),97.33955306203362,5651.151055260524,Yes
+9312-C667,Female,0,No,Yes,58,Yes,No phone service,No,Yes,Yes,No,Yes,No,No,One year,No,Electronic check,64.6615566689718,3744.339627722435,No
+1333-B994,Male,0,No,Yes,1,No,No,DSL,Yes,No,No internet service,Yes,No internet service,Yes,One year,Yes,Mailed check,118.65862216362973,111.64992767480364,No
+8702-A750,Male,0,No,Yes,28,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),102.5786956145366,2873.617558737075,No
+7338-B359,Female,0,Yes,Yes,67,No,No,DSL,No,Yes,No,No internet service,No,Yes,Month-to-month,Yes,Bank transfer (automatic),92.59016501200571,6205.208796855966,No
+1266-B907,Male,0,Yes,Yes,64,Yes,No,DSL,No,No,Yes,No internet service,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),105.75799381854566,6760.013955696593,No
+2106-B346,Male,0,No,No,25,Yes,No,No,No,Yes,No internet service,No,No internet service,Yes,One year,No,Bank transfer (automatic),81.97005445680588,2056.2843280596217,No
+2698-C852,Female,0,Yes,No,9,No,No phone service,No,Yes,No,No internet service,Yes,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),103.03705178111402,924.5604871450549,Yes
+6447-A145,Female,0,No,No,52,Yes,Yes,DSL,No,No,Yes,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),44.493248159826315,2324.922111668097,No
+6772-C446,Male,0,No,No,58,Yes,No,Fiber optic,Yes,Yes,No,No,No internet service,No internet service,Two year,Yes,Mailed check,28.06917271565803,1627.4579323902724,No
+3868-C575,Male,0,No,No,21,No,No phone service,No,No,No internet service,No internet service,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),80.1511667122102,1681.7352986560556,No
+8840-C286,Male,0,No,No,50,Yes,No,Fiber optic,Yes,No internet service,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),61.93638446269039,3087.44525863946,Yes
+3209-A833,Female,1,No,Yes,47,No,Yes,Fiber optic,No,No,Yes,No internet service,No internet service,No,Two year,Yes,Bank transfer (automatic),61.10729992688941,2863.764499212616,No
+8498-A400,Female,0,Yes,Yes,20,No,No,Fiber optic,No internet service,No internet service,No internet service,Yes,No,Yes,One year,Yes,Mailed check,71.18815916921963,1436.9408270351685,No
+4302-A910,Female,0,No,No,21,No,Yes,DSL,No internet service,No internet service,No,No,No,Yes,One year,No,Bank transfer (automatic),54.56895246233702,1148.6376391789672,No
+4268-A423,Female,0,Yes,No,29,No,No,Fiber optic,Yes,Yes,No internet service,No,No,No,Two year,Yes,Mailed check,81.16898291000433,2357.793528195352,No
+6080-C507,Male,0,Yes,Yes,24,No,Yes,DSL,Yes,No,Yes,No internet service,No internet service,No,Month-to-month,No,Electronic check,21.322120918436806,527.7373716113145,No
+9897-B359,Female,0,No,Yes,27,Yes,No,DSL,No,No,No internet service,Yes,No internet service,No,One year,Yes,Bank transfer (automatic),115.72407985911721,3111.374269992742,No
+1599-C295,Female,0,No,Yes,64,Yes,Yes,Fiber optic,No,Yes,No,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),111.18325370057983,7122.4407940075225,Yes
+5687-B982,Female,0,Yes,No,44,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Mailed check,112.24465133948434,4922.885750290379,Yes
+1783-C439,Female,0,Yes,No,67,No,No,Fiber optic,No,No,No,No internet service,Yes,No,Two year,No,Electronic check,54.9328513061637,3676.124518092434,No
+5476-A918,Female,1,Yes,No,6,No,No phone service,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,71.70504124473953,418.77937722135187,Yes
+7029-B509,Male,0,No,Yes,48,No,No phone service,DSL,Yes,No,No internet service,Yes,No,No,One year,Yes,Mailed check,114.14012560728631,5487.311934609064,No
+8204-B447,Male,0,Yes,Yes,8,No,Yes,Fiber optic,Yes,No,No,Yes,No internet service,No internet service,Two year,Yes,Electronic check,108.93577867097245,852.5889658471834,No
+4060-B808,Female,1,No,No,35,Yes,No,Fiber optic,Yes,No,No internet service,Yes,No internet service,No internet service,Two year,Yes,Bank transfer (automatic),97.6695698280653,3416.134098868758,No
+9151-B916,Male,0,No,No,0,Yes,Yes,DSL,Yes,No,No,No internet service,Yes,No internet service,Two year,Yes,Bank transfer (automatic),59.18682477968304,0.0,No
+9507-B920,Female,1,No,Yes,9,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Mailed check,74.96609192980843,666.1467436422357,No
+2353-C534,Female,0,Yes,Yes,35,No,Yes,No,No internet service,No internet service,No,Yes,Yes,No internet service,Month-to-month,Yes,Electronic check,97.93770365877309,3420.8125164151825,No
+2293-B716,Male,0,No,Yes,72,Yes,Yes,DSL,Yes,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),45.68770555177319,3302.7058451026564,No
+3956-C400,Male,0,No,Yes,45,No,No phone service,No,No,No internet service,Yes,No,No,Yes,Month-to-month,Yes,Mailed check,81.2081615069252,3651.0149733113185,Yes
+6262-A181,Female,0,No,No,31,No,No,DSL,Yes,Yes,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),101.45739964761161,3162.452646036109,Yes
+6372-C402,Female,0,No,Yes,31,No,Yes,Fiber optic,No internet service,No,No,Yes,Yes,Yes,One year,Yes,Electronic check,89.34920656915659,2789.19126691232,No
+6021-B717,Female,0,No,Yes,5,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No internet service,Yes,One year,No,Credit card (automatic),66.43780343469558,353.32585585971344,No
+7981-A806,Male,0,Yes,Yes,47,Yes,No,No,No internet service,No,No internet service,No,No internet service,Yes,Two year,No,Credit card (automatic),77.00314013529342,3618.559917149269,No
+8272-B557,Female,0,No,No,37,No,No phone service,Fiber optic,No internet service,Yes,No internet service,No,No internet service,Yes,One year,No,Mailed check,117.61189208615231,4353.743578581349,No
+1693-C990,Female,0,No,No,16,Yes,Yes,No,Yes,No internet service,No,Yes,No,Yes,One year,Yes,Electronic check,78.7497733620446,1263.7759302213415,No
+6776-C545,Female,1,Yes,Yes,26,No,No,No,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),97.2045842788737,2523.6443129651084,Yes
+5498-C910,Male,1,No,Yes,53,No,No,Fiber optic,No,No internet service,No,No internet service,No internet service,No,Month-to-month,No,Bank transfer (automatic),91.2737788199551,4841.753980046039,Yes
+1939-A787,Female,1,Yes,Yes,49,Yes,No phone service,Fiber optic,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,No,Mailed check,88.749806860701,4339.388574102982,Yes
+7655-B625,Female,0,No,No,34,No,No phone service,No,No,Yes,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),90.24509003896138,3049.5783036967105,No
+3621-A246,Male,0,Yes,No,24,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),63.91818000378712,1541.1776660851071,No
+8179-A229,Female,0,Yes,No,27,Yes,No,DSL,No internet service,No internet service,No internet service,No,No,Yes,One year,Yes,Credit card (automatic),65.9030975390716,1775.8859005077682,No
+2101-A897,Female,0,No,Yes,14,No,No,Fiber optic,No,No,Yes,No internet service,No,Yes,One year,No,Credit card (automatic),65.27020510475862,904.0159530862321,No
+7001-B492,Male,0,No,No,3,No,Yes,Fiber optic,No,No,No internet service,Yes,Yes,No internet service,Month-to-month,No,Electronic check,21.592088024867113,56.2740010479089,Yes
+1530-C257,Female,0,No,Yes,72,No,No,DSL,No,Yes,No,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),42.477065698398505,3073.4999484923464,No
+8371-B480,Male,0,Yes,Yes,26,Yes,Yes,Fiber optic,Yes,Yes,Yes,No internet service,Yes,No,Month-to-month,Yes,Bank transfer (automatic),33.78368266831322,883.0168772853646,Yes
+8273-A687,Male,0,Yes,Yes,25,No,No phone service,Fiber optic,Yes,Yes,No,No internet service,No,No,Month-to-month,No,Electronic check,107.33772364542436,2668.220019310972,No
+3255-C475,Female,0,Yes,No,18,Yes,No phone service,No,Yes,Yes,Yes,No internet service,No,Yes,One year,No,Electronic check,45.88442132852137,814.0497197875062,No
+7521-B765,Female,0,No,Yes,16,No,No,Fiber optic,No internet service,Yes,No internet service,No,Yes,Yes,One year,No,Mailed check,32.16348476378681,511.6969601624188,No
+5566-A216,Female,0,Yes,No,42,No,No phone service,Fiber optic,Yes,Yes,No,No,Yes,Yes,One year,Yes,Credit card (automatic),30.286576657043938,1276.8003131792657,No
+1424-C290,Female,1,Yes,No,40,No,No phone service,DSL,No internet service,Yes,No,Yes,Yes,No,Two year,Yes,Electronic check,88.59897837249194,3536.0134211159493,No
+9176-C496,Male,0,No,Yes,41,No,No,No,No,No,Yes,Yes,No,Yes,One year,No,Bank transfer (automatic),18.861372746953407,771.5868158766364,No
+2929-B893,Female,0,Yes,Yes,49,Yes,Yes,No,No,Yes,Yes,No internet service,No internet service,No internet service,Two year,No,Electronic check,65.61609237652908,3216.334038332227,No
+5264-C556,Male,0,Yes,No,39,Yes,No,No,Yes,Yes,No,No internet service,Yes,Yes,Month-to-month,Yes,Electronic check,30.196546112618723,1179.0179824831569,No
+4515-C392,Female,0,No,Yes,38,No,Yes,Fiber optic,No,No,Yes,No,No,No internet service,One year,Yes,Mailed check,103.64116945240846,3914.4130770015286,No
+9047-A225,Female,0,Yes,No,22,No,No,No,Yes,No,No,No,No,Yes,Month-to-month,No,Bank transfer (automatic),114.57426082347206,2522.850151834416,No
+3223-A562,Female,0,No,Yes,51,No,No,DSL,No internet service,No internet service,Yes,Yes,No,Yes,Month-to-month,Yes,Bank transfer (automatic),114.60483892959782,5827.518188980085,No
+3828-C555,Male,0,No,No,46,No,No phone service,No,No,Yes,No internet service,Yes,Yes,No,Month-to-month,No,Credit card (automatic),62.66739294915031,2879.836090845905,No
+2438-C965,Female,0,No,No,62,No,No,DSL,Yes,Yes,Yes,Yes,Yes,No internet service,One year,Yes,Bank transfer (automatic),83.02373985569704,5142.457720584132,No
+6236-C455,Female,0,No,No,68,No,No,No,No,Yes,No internet service,No,No internet service,No internet service,Month-to-month,No,Electronic check,78.52026571932984,5328.590739922428,No
+2063-C655,Female,0,No,No,42,No,Yes,No,No,Yes,Yes,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),53.428909589288274,2252.4458747901194,Yes
+5757-B971,Female,1,Yes,Yes,47,No,No phone service,DSL,Yes,No internet service,Yes,Yes,Yes,No,Two year,No,Bank transfer (automatic),62.87848138776338,2944.048866625911,No
+3580-C826,Male,0,Yes,Yes,33,Yes,Yes,No,No,No,No,Yes,No,No internet service,Two year,Yes,Electronic check,24.714531571945212,810.3501729803174,No
+3852-B620,Female,0,No,No,39,Yes,Yes,No,No,No,Yes,No,No,No,One year,No,Mailed check,98.21775278348447,3839.2797002859265,No
+4673-A305,Male,1,No,No,60,Yes,No phone service,No,No,Yes,Yes,Yes,No internet service,Yes,One year,No,Credit card (automatic),42.45075297153922,2541.5301742324564,No
+3275-A909,Male,0,Yes,Yes,49,No,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),64.5329967792058,3154.53174227423,No
+9094-A469,Male,0,No,Yes,66,No,No phone service,DSL,No internet service,Yes,Yes,No,Yes,No internet service,One year,No,Mailed check,66.5523837284727,4389.775771638672,No
+7044-B922,Male,0,No,Yes,61,No,No,No,No,No internet service,No,Yes,No,Yes,Month-to-month,No,Electronic check,74.60152978470748,4556.098342072868,Yes
+3126-C188,Male,0,No,Yes,57,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,No,Yes,Two year,No,Credit card (automatic),100.44660210775304,5739.919396189865,No
+2077-B507,Male,1,Yes,Yes,32,No,No phone service,DSL,Yes,No,No,No,No internet service,No internet service,One year,Yes,Mailed check,87.78404514146685,2799.728228547561,No
+8842-C520,Female,0,Yes,Yes,15,Yes,No phone service,DSL,No internet service,Yes,No,No,No internet service,Yes,Month-to-month,Yes,Mailed check,84.8878364374838,1264.766726907596,No
+7708-C175,Male,1,No,No,47,No,Yes,No,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,71.18792232839644,3343.0689953853675,No
+3053-B757,Male,0,No,Yes,9,Yes,Yes,No,Yes,Yes,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),27.89355337213229,253.34338686186234,Yes
+2215-B577,Male,0,Yes,Yes,37,Yes,No,DSL,Yes,Yes,No internet service,No,No internet service,Yes,Two year,No,Credit card (automatic),58.65185140091157,2162.4160351937544,No
+9476-B231,Female,0,Yes,No,18,Yes,Yes,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),114.46034355470049,2067.1718176634704,Yes
+3981-A543,Female,0,No,Yes,35,No,No,DSL,Yes,No,No,Yes,No,Yes,Two year,Yes,Credit card (automatic),118.30258156646937,4131.417577311902,No
+9238-A951,Male,0,No,Yes,58,Yes,Yes,Fiber optic,Yes,No,No internet service,No internet service,No internet service,Yes,Two year,Yes,Bank transfer (automatic),91.66506368314228,5297.565147727292,No
+3034-C256,Female,1,Yes,Yes,62,No,No phone service,DSL,Yes,No internet service,No,Yes,No,Yes,One year,No,Mailed check,41.11525378900183,2554.46348772977,No
+5982-A265,Male,0,Yes,Yes,45,No,Yes,DSL,No,Yes,Yes,Yes,No,No,One year,No,Bank transfer (automatic),28.49000992334129,1288.5263412818206,No
+6286-C330,Male,1,Yes,Yes,2,No,No,DSL,Yes,No,No internet service,Yes,Yes,Yes,Month-to-month,No,Mailed check,59.93381808414302,130.31414252461363,Yes
+6669-C390,Female,0,No,No,64,No,Yes,No,No internet service,No,No internet service,Yes,No,No,Month-to-month,Yes,Credit card (automatic),104.33547618711323,6657.551478003676,No
+2292-B301,Male,1,Yes,Yes,7,No,No phone service,Fiber optic,No internet service,No internet service,Yes,No internet service,No,No internet service,Month-to-month,No,Credit card (automatic),90.79735610944755,628.9253422509044,Yes
+5496-A740,Female,0,No,No,50,Yes,No,Fiber optic,No,Yes,No internet service,Yes,No internet service,Yes,One year,No,Bank transfer (automatic),107.08116987288105,5351.547911962065,No
+5961-C646,Female,0,Yes,No,72,No,No phone service,DSL,No internet service,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,80.13551962711405,5787.32699488639,No
+2530-C756,Male,1,Yes,Yes,5,No,No phone service,No,No internet service,Yes,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),31.34800064126408,,Yes
+3762-C694,Male,0,Yes,No,38,No,No,No,No,No,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,29.78699468331549,1118.4406310857341,No
+3526-A774,Female,0,Yes,Yes,59,No,No phone service,Fiber optic,Yes,No internet service,Yes,No internet service,No internet service,No,Two year,Yes,Mailed check,23.074231414327993,1364.3470580928995,No
+6531-C142,Male,0,No,No,27,No,No phone service,No,No,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),75.24153704263986,2044.6160624092374,No
+1464-A146,Male,0,No,No,53,Yes,Yes,Fiber optic,Yes,No internet service,No internet service,No internet service,No internet service,Yes,Two year,Yes,Electronic check,42.6600667807913,2271.949928811547,No
+5336-C315,Male,1,Yes,Yes,36,Yes,No phone service,Fiber optic,Yes,No,No internet service,Yes,No,Yes,Month-to-month,Yes,Electronic check,92.05555595617253,3319.617996065489,Yes
+7825-C754,Female,0,No,Yes,8,No,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),87.21811855367947,700.3712721005174,Yes
+1496-B742,Female,0,Yes,Yes,55,Yes,No phone service,No,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,50.22012961203585,2739.4296055674627,No
+9938-B757,Male,0,Yes,Yes,58,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Electronic check,36.01856747963847,2089.3335783695684,No
+5949-B350,Female,0,Yes,Yes,1,No,No,Fiber optic,No internet service,No,No internet service,Yes,Yes,Yes,One year,Yes,Mailed check,28.54123515449812,30.322637779815484,No
+7653-B564,Female,0,Yes,No,60,Yes,Yes,DSL,Yes,Yes,No internet service,No,No,No internet service,Month-to-month,No,Bank transfer (automatic),92.35018501821625,5539.4120043504645,No
+2195-C161,Female,0,No,No,57,No,No phone service,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,Yes,One year,Yes,Credit card (automatic),63.51932004030628,3627.6722411723517,No
+3589-B525,Female,0,Yes,No,59,Yes,No phone service,Fiber optic,No,Yes,No internet service,No internet service,No,No,One year,Yes,Credit card (automatic),50.76475637490296,2993.360648091548,No
+8933-B308,Female,0,Yes,No,39,Yes,No,DSL,No internet service,No,No,Yes,Yes,No,One year,Yes,Electronic check,104.34362808853437,4065.715863402813,No
+6573-C247,Male,0,No,No,35,Yes,No phone service,DSL,No internet service,Yes,Yes,No,No,Yes,One year,Yes,Mailed check,77.9081282652231,2737.174466499331,No
+6121-C426,Male,0,Yes,No,36,No,No,No,Yes,No internet service,No internet service,No,Yes,Yes,Month-to-month,No,Electronic check,70.30923480785674,2526.9965659450854,No
+6658-B233,Male,0,Yes,No,17,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,No internet service,No internet service,One year,No,Electronic check,92.95960608004938,1580.9598440822306,No
+7070-C675,Female,0,Yes,Yes,62,Yes,Yes,No,No internet service,No internet service,No,No internet service,Yes,Yes,Two year,Yes,Credit card (automatic),100.21610559364647,6222.373859602901,No
+2739-B347,Female,0,No,Yes,21,No,No phone service,No,Yes,No internet service,Yes,Yes,Yes,Yes,Two year,No,Electronic check,87.20035211998331,1821.100707007117,No
+8642-A373,Male,0,Yes,No,10,No,No phone service,DSL,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Two year,Yes,Electronic check,62.47063501923495,613.5144868707357,No
+8366-A244,Female,0,No,No,57,Yes,No phone service,No,No,No internet service,No,Yes,No internet service,No,Month-to-month,Yes,Mailed check,56.36952866355484,3226.642535379134,No
+2586-A397,Male,0,Yes,Yes,56,No,No,Fiber optic,No internet service,No,No,No internet service,No,No internet service,One year,Yes,Credit card (automatic),95.80232629640658,5359.003152561904,No
+7293-C528,Male,0,Yes,Yes,3,Yes,No phone service,DSL,No internet service,No,No internet service,No,No,No,One year,Yes,Bank transfer (automatic),70.29966964434875,217.82333324990728,No
+5067-A933,Male,0,No,Yes,6,Yes,No phone service,Fiber optic,Yes,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Mailed check,89.04080089099632,516.4915950275753,Yes
+6364-C838,Female,0,Yes,Yes,60,No,Yes,Fiber optic,No internet service,Yes,No internet service,No,Yes,No,Two year,No,Mailed check,107.73507830259547,6439.074182224642,No
+6123-A881,Female,0,Yes,No,53,No,No phone service,DSL,Yes,Yes,Yes,No,No,Yes,One year,Yes,Mailed check,110.29700879103866,5849.383766508501,No
+3610-B627,Male,0,No,Yes,67,No,Yes,Fiber optic,No,No,Yes,No,Yes,No,Month-to-month,Yes,Credit card (automatic),46.160421743677546,3091.4730503085007,No
+8648-B415,Male,0,No,No,0,Yes,No phone service,DSL,No internet service,Yes,Yes,No internet service,Yes,No,Month-to-month,No,Electronic check,37.13294000238767,3.7363144166404716,Yes
+9148-A192,Male,1,No,No,54,No,Yes,Fiber optic,No,Yes,No internet service,Yes,No,No internet service,Two year,No,Bank transfer (automatic),44.509379713852205,2422.2535925741176,No
+7442-C568,Male,0,No,No,2,Yes,No phone service,DSL,No,No internet service,No internet service,Yes,No,No internet service,Month-to-month,Yes,Credit card (automatic),93.76286293881803,175.15230767851222,Yes
+4944-A697,Female,0,No,Yes,37,No,Yes,No,No internet service,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Electronic check,55.4408326226391,2051.692685980111,Yes
+6781-A151,Female,0,Yes,Yes,0,Yes,No,Fiber optic,Yes,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Mailed check,35.67562272455364,14.77466085582587,Yes
+5609-B711,Male,0,No,No,37,No,Yes,DSL,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Credit card (automatic),28.13774199695041,1030.1665527521986,No
+8710-B649,Male,0,Yes,No,28,Yes,Yes,Fiber optic,No,No,No,No internet service,Yes,No internet service,Two year,No,Electronic check,51.14497547738363,1426.2120430090133,No
+1133-A541,Female,1,Yes,No,4,No,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,No,No internet service,Month-to-month,No,Bank transfer (automatic),31.931712255226387,110.05399698088955,Yes
+3194-B844,Female,0,Yes,Yes,20,Yes,No phone service,Fiber optic,No internet service,No internet service,No internet service,No internet service,Yes,No internet service,One year,No,Bank transfer (automatic),33.965548059597346,701.6894537836328,No
+6992-B474,Male,0,No,No,70,No,No phone service,DSL,No internet service,Yes,Yes,No internet service,Yes,No,Two year,Yes,Electronic check,86.98033933135015,6066.578348132833,No
+1741-B152,Male,0,No,Yes,66,No,No phone service,No,No internet service,No,Yes,No internet service,No,No internet service,Month-to-month,Yes,Credit card (automatic),20.233075614674732,1343.3688475949666,No
+4189-B666,Male,0,Yes,No,46,Yes,No,No,No internet service,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Mailed check,30.06410279335652,1369.750728886598,Yes
+5728-A495,Female,0,No,No,34,No,No,No,No internet service,No internet service,Yes,No internet service,Yes,No,One year,Yes,Electronic check,103.10873186691619,3495.1879611511636,No
+9261-B882,Female,0,No,No,67,Yes,Yes,DSL,Yes,No internet service,No internet service,Yes,No internet service,No,Month-to-month,No,Mailed check,103.16386554433444,6922.61853084264,No
+5582-C796,Female,0,No,Yes,68,Yes,No,No,No,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Bank transfer (automatic),51.33896961573949,3483.624829547341,No
+2946-A199,Male,0,No,Yes,0,No,Yes,DSL,Yes,Yes,No,No internet service,No,No internet service,One year,Yes,Electronic check,27.08927734105726,6.517875712270696,No
+7453-B913,Male,0,Yes,No,67,Yes,Yes,Fiber optic,Yes,No,Yes,No,Yes,Yes,Two year,Yes,Bank transfer (automatic),89.09951854762419,5983.468058529271,No
+6555-C474,Female,0,Yes,Yes,11,No,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No internet service,One year,Yes,Mailed check,54.44323462127438,600.8825506905417,No
+3363-A716,Female,0,No,No,59,No,No,No,No,Yes,Yes,No internet service,No internet service,No,Two year,No,Mailed check,22.819195034095046,1355.2253655037493,No
+9341-B612,Male,0,Yes,Yes,26,Yes,No phone service,DSL,Yes,No internet service,No,Yes,No internet service,No,One year,Yes,Electronic check,34.11161162062975,887.7086340924004,No
+1659-A139,Female,0,No,Yes,55,No,No,Fiber optic,No internet service,No,No,No,No,No,One year,Yes,Electronic check,32.040088602384444,1763.47493398393,No
+3245-C441,Female,0,No,Yes,22,Yes,Yes,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Two year,Yes,Electronic check,77.45619255468006,1697.6869452445792,No
+8761-C567,Male,0,Yes,No,24,Yes,Yes,DSL,No,Yes,Yes,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),108.51081715215791,2623.548205988521,No
+3440-C627,Female,0,Yes,Yes,20,No,No,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,Month-to-month,No,Mailed check,97.95373934900748,1966.5032319213028,Yes
+3290-B727,Male,0,Yes,Yes,60,No,Yes,DSL,Yes,No internet service,No,Yes,No,Yes,One year,No,Mailed check,73.17486252423163,4395.7098041984245,No
+6218-A502,Male,0,No,No,62,Yes,Yes,Fiber optic,Yes,Yes,No,No internet service,No internet service,No,One year,No,Bank transfer (automatic),60.676594075211746,3769.651780243924,No
+5902-C444,Male,0,Yes,No,51,Yes,No,Fiber optic,No internet service,Yes,No,No internet service,Yes,Yes,Month-to-month,No,Electronic check,80.42700926142092,4095.004568981304,Yes
+9311-C645,Male,0,No,No,24,No,No,Fiber optic,No,No internet service,Yes,No internet service,No,No,Month-to-month,No,Credit card (automatic),62.853180468498124,1517.7860501024795,Yes
+9025-C676,Male,0,Yes,No,54,No,No,DSL,No,Yes,No internet service,No internet service,Yes,No,Month-to-month,No,Electronic check,42.98296181891975,2336.6387460365854,No
+5911-B935,Male,0,Yes,Yes,45,No,Yes,Fiber optic,Yes,No,Yes,No internet service,No,Yes,One year,No,Credit card (automatic),86.5093442629041,3879.1135156136797,No
+1272-B439,Male,0,No,Yes,31,No,Yes,DSL,No internet service,No internet service,Yes,Yes,No internet service,No,Two year,Yes,Credit card (automatic),106.01101654700277,3291.757140972469,No
+2795-B697,Female,1,No,Yes,54,Yes,No phone service,Fiber optic,Yes,No,Yes,Yes,No internet service,Yes,Two year,No,Bank transfer (automatic),55.72346823342648,3009.6951853033675,No
+6040-C993,Male,0,No,Yes,4,No,No phone service,Fiber optic,No,Yes,No internet service,No internet service,Yes,No,One year,No,Mailed check,102.82461600297935,406.10661464816246,Yes
+1436-C585,Male,0,No,Yes,35,Yes,No,No,No internet service,Yes,Yes,No internet service,Yes,Yes,Two year,No,Mailed check,61.57374567159079,2144.148538601226,No
+5350-C901,Female,0,No,No,48,Yes,No phone service,No,Yes,No internet service,No,Yes,Yes,No,Month-to-month,No,Mailed check,58.584262281492315,2822.5637861415107,Yes
+4728-C152,Female,1,No,Yes,57,No,Yes,No,Yes,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,21.096597933476282,1204.5859788373975,No
+8871-A636,Female,0,No,Yes,38,Yes,No phone service,DSL,No internet service,No internet service,No,Yes,No internet service,No,Month-to-month,No,Bank transfer (automatic),88.12552958742474,3346.698824287118,No
+7229-A941,Male,0,No,Yes,60,No,Yes,DSL,No,No internet service,No internet service,Yes,Yes,No,One year,No,Credit card (automatic),99.40400377393921,5969.664047571351,No
+4968-A686,Female,0,Yes,No,8,Yes,No,Fiber optic,No internet service,No internet service,Yes,Yes,Yes,No,Month-to-month,Yes,Mailed check,84.93747041563537,678.2249554498918,Yes
+2800-A119,Male,0,No,No,5,No,No,Fiber optic,Yes,No internet service,No internet service,Yes,Yes,Yes,One year,No,Credit card (automatic),33.46177561489032,160.2681608569808,No
+8225-B528,Male,0,No,Yes,34,Yes,Yes,Fiber optic,Yes,No internet service,Yes,Yes,No,No internet service,One year,No,Bank transfer (automatic),28.630993489040634,974.7432991068371,No
+3481-B807,Male,1,Yes,No,38,Yes,No phone service,Fiber optic,Yes,No,No,No,Yes,No,Month-to-month,No,Electronic check,75.82230453766323,2880.967512795384,No
+4340-B613,Male,0,No,No,21,No,No,DSL,Yes,No internet service,Yes,No internet service,Yes,No,Two year,No,Bank transfer (automatic),58.60238354555249,1212.9081749414186,No
+8726-C844,Female,0,Yes,No,40,No,No,Fiber optic,No,No,Yes,No internet service,No,Yes,One year,No,Mailed check,61.37432724030175,,No
+2020-C241,Female,0,Yes,No,4,Yes,No phone service,Fiber optic,No,Yes,Yes,No,No,No,Month-to-month,No,Electronic check,115.51392479767227,449.41174917867835,Yes
+9498-A674,Male,0,No,No,41,Yes,No phone service,No,Yes,No internet service,No internet service,No internet service,Yes,No,Month-to-month,No,Bank transfer (automatic),91.00422845490307,3714.6593438994687,No
+6325-C589,Male,0,Yes,No,66,No,Yes,Fiber optic,No,Yes,Yes,No internet service,Yes,No,One year,Yes,Bank transfer (automatic),59.634667790379545,3940.565067894276,No
+9609-B421,Male,0,No,No,29,Yes,No phone service,Fiber optic,No,No internet service,Yes,No internet service,No,No,Month-to-month,Yes,Credit card (automatic),20.169477624092345,578.227181800379,Yes
+3837-B645,Female,0,Yes,Yes,56,No,No phone service,Fiber optic,No,No,Yes,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),21.676617634253663,1224.3046504733964,Yes
+6608-C462,Male,0,Yes,Yes,72,Yes,No phone service,DSL,Yes,No,No internet service,No,No,No internet service,One year,Yes,Electronic check,87.07277141240854,6250.953578529976,No
+5331-C595,Male,0,Yes,No,28,No,Yes,No,No internet service,No,No internet service,No internet service,No internet service,No,Two year,No,Bank transfer (automatic),102.44274533153526,2865.4193299346553,No
+4150-A385,Female,0,No,Yes,36,Yes,Yes,Fiber optic,No internet service,Yes,No internet service,No internet service,Yes,No,Month-to-month,Yes,Mailed check,89.37411426974322,3211.3088506179915,Yes
+5890-A404,Female,1,No,Yes,12,No,No,Fiber optic,No internet service,No internet service,Yes,No internet service,Yes,No,Two year,No,Credit card (automatic),59.04171913677491,692.7209828992652,No
+5735-C312,Male,0,Yes,No,31,No,Yes,No,Yes,Yes,No,Yes,No internet service,No internet service,Two year,Yes,Electronic check,21.379141662022242,662.8042618445043,No
+9011-B591,Female,1,Yes,Yes,45,Yes,No,Fiber optic,No,No,No,Yes,No,No internet service,Month-to-month,No,Electronic check,115.47386383864058,5181.417227275847,No
+6714-C914,Female,0,No,No,22,No,No phone service,DSL,No,Yes,No,Yes,Yes,Yes,One year,Yes,Bank transfer (automatic),117.3767742468877,2584.516191827752,No
+5480-B224,Male,0,No,No,44,Yes,No,Fiber optic,Yes,No,Yes,No,No internet service,Yes,Month-to-month,Yes,Mailed check,73.461137420149,3239.4976340792905,Yes
+9899-B504,Female,0,Yes,No,16,No,No,DSL,Yes,No,No,No internet service,No,No,Month-to-month,No,Credit card (automatic),25.35243195185811,408.3144429929774,Yes
+6654-A397,Male,0,Yes,Yes,65,No,No phone service,DSL,No internet service,No,No,No,No internet service,No,One year,No,Electronic check,72.61773684440392,4724.091729846014,No
+1689-B831,Female,0,No,Yes,5,No,No,Fiber optic,No internet service,No internet service,No,No,No,No internet service,One year,Yes,Credit card (automatic),107.93001625719124,549.9624303366962,No
+2294-B552,Male,0,No,Yes,17,Yes,Yes,No,Yes,No internet service,Yes,No,No,No,Month-to-month,Yes,Bank transfer (automatic),86.58854376788545,1471.7376100427825,No
+5201-C590,Male,0,No,Yes,21,No,Yes,DSL,No internet service,No,No,No internet service,No,No,Two year,No,Mailed check,90.60891771878879,1894.5269956657125,No
+4505-A947,Male,0,No,No,32,Yes,Yes,No,No,Yes,No,Yes,No,No internet service,One year,Yes,Bank transfer (automatic),26.78946866194105,851.1734821305524,No
+9824-B675,Female,1,No,No,29,No,Yes,Fiber optic,Yes,Yes,Yes,No internet service,No internet service,No internet service,Two year,No,Credit card (automatic),28.954419521696046,833.804424982203,No
+5450-A211,Male,1,Yes,Yes,31,Yes,No,DSL,Yes,No internet service,No internet service,No internet service,No internet service,No internet service,Month-to-month,Yes,Bank transfer (automatic),31.04855202577647,952.0717257836346,No
+4920-A151,Female,0,No,No,41,Yes,No,Fiber optic,No,No,No,No,No internet service,No internet service,Two year,Yes,Credit card (automatic),109.13987178292976,4482.576856134543,No
+9700-A753,Male,0,Yes,No,9,Yes,No phone service,No,No,Yes,No internet service,No,No internet service,Yes,Month-to-month,No,Electronic check,71.09788844451325,645.150024287453,Yes
+4814-A202,Male,0,No,Yes,35,No,No,Fiber optic,No,No,No,No,No internet service,No internet service,Month-to-month,No,Electronic check,97.80329718749562,3406.465369211538,Yes
+7771-B834,Female,0,Yes,No,33,Yes,No,Fiber optic,No internet service,Yes,Yes,Yes,No,No internet service,One year,No,Bank transfer (automatic),29.836771618301825,976.3502187758068,No
+8739-A797,Male,0,No,Yes,72,No,No,DSL,Yes,No internet service,No internet service,Yes,Yes,No,One year,Yes,Electronic check,111.47809190361379,8015.502763511377,No
+3252-A663,Male,0,No,No,27,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,Yes,No,One year,Yes,Credit card (automatic),100.77478019546962,2724.092525335214,No
+3587-B768,Female,0,Yes,Yes,10,Yes,Yes,Fiber optic,No,No,No internet service,No internet service,No internet service,No,Month-to-month,Yes,Electronic check,40.83879654992329,419.15306061046647,Yes
+8793-B766,Male,1,Yes,No,38,Yes,No,Fiber optic,No internet service,Yes,No internet service,No,No internet service,Yes,Month-to-month,No,Mailed check,106.10531444604233,4036.4838091830266,Yes
+4267-B428,Male,0,No,No,46,Yes,No phone service,DSL,No,Yes,No,No internet service,Yes,No internet service,One year,Yes,Mailed check,44.72599731937933,2050.3839520749825,No
+5676-C160,Male,0,No,Yes,18,No,No phone service,No,No internet service,Yes,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),38.886657873575174,696.7700587009676,No
+2465-C687,Male,0,No,Yes,14,Yes,No phone service,No,No internet service,No,No internet service,No,No internet service,Yes,One year,No,Bank transfer (automatic),44.80651564962734,613.3627065290998,No
+4804-C856,Female,0,No,Yes,27,Yes,Yes,Fiber optic,No,No internet service,No,Yes,No,No internet service,Month-to-month,Yes,Bank transfer (automatic),109.70048385889724,2948.7514390224073,Yes
+1611-A527,Female,0,No,Yes,23,No,No,DSL,No internet service,No internet service,No internet service,No,Yes,No,Two year,Yes,Bank transfer (automatic),110.26699454424438,2544.6013716668676,No
+3880-A956,Male,1,Yes,No,71,Yes,No phone service,Fiber optic,Yes,Yes,No internet service,No,Yes,Yes,One year,No,Credit card (automatic),51.31407535614087,3657.7404723173145,No
+7504-B290,Female,0,Yes,No,8,Yes,Yes,No,No internet service,No internet service,Yes,No internet service,No internet service,No internet service,One year,No,Credit card (automatic),89.1461356020024,706.0213995279236,No
+5742-A109,Male,1,No,Yes,46,Yes,No phone service,DSL,No internet service,Yes,No internet service,No internet service,No,Yes,Two year,No,Mailed check,86.16239814400042,3963.951502825345,No
+5888-C717,Female,0,Yes,No,32,Yes,No phone service,No,Yes,No internet service,No,Yes,No internet service,Yes,One year,No,Credit card (automatic),99.30954452910552,3185.1106625313896,No
+2758-B391,Male,0,Yes,Yes,61,No,No phone service,No,No,No,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,48.04920476428417,2914.3630686029455,No
+8444-C656,Male,0,Yes,Yes,18,No,No phone service,DSL,Yes,Yes,Yes,No internet service,No,No,Month-to-month,No,Mailed check,69.51892346199539,1240.853756199561,No
+9590-B237,Male,0,No,No,66,Yes,No phone service,DSL,No internet service,No internet service,No,No internet service,No internet service,No internet service,One year,No,Bank transfer (automatic),85.35123207633283,5653.1176718904135,No
+9261-B379,Male,1,Yes,No,39,No,Yes,Fiber optic,No,No,Yes,No,No internet service,No internet service,Month-to-month,No,Bank transfer (automatic),20.888810290395558,805.0864363465327,No
+4159-A438,Male,1,No,Yes,46,No,No,Fiber optic,No internet service,No internet service,Yes,No internet service,No internet service,No,One year,No,Credit card (automatic),56.11224390576094,2577.544876570812,No
+3662-C569,Male,0,Yes,Yes,64,Yes,No,No,No internet service,No,No internet service,Yes,Yes,No internet service,Month-to-month,Yes,Mailed check,88.18677994669618,5637.924572984595,No
+5215-C290,Female,0,No,Yes,28,No,No,DSL,Yes,No,Yes,No,No internet service,No internet service,Month-to-month,No,Credit card (automatic),43.635806858472904,1201.8547984583415,No
+1230-C445,Male,0,Yes,No,49,Yes,No,DSL,Yes,No internet service,Yes,No,No,No internet service,Month-to-month,No,Credit card (automatic),114.49926275415197,5611.291100338492,Yes
+5833-C790,Female,1,No,No,12,No,Yes,Fiber optic,No,No internet service,No,No internet service,No internet service,Yes,Two year,Yes,Credit card (automatic),21.281217836437314,255.12209779425908,No
+4164-A725,Male,0,No,No,0,No,Yes,No,No,No,Yes,No,Yes,Yes,One year,No,Mailed check,114.53776235253599,1.808512144201237,No
+7643-B627,Female,0,Yes,No,33,No,Yes,No,No,No,No internet service,Yes,No internet service,Yes,Two year,Yes,Bank transfer (automatic),40.034768735045205,1320.3016126830116,No
+6372-A510,Female,0,No,Yes,47,Yes,No phone service,Fiber optic,No internet service,No,No internet service,Yes,Yes,No internet service,Two year,Yes,Electronic check,23.156615213499684,1083.7623056246032,No
+2562-A243,Female,0,No,Yes,47,No,No phone service,DSL,Yes,Yes,No internet service,No,Yes,No,Month-to-month,No,Bank transfer (automatic),47.64364033896753,2234.0783739279536,No
+8822-B354,Male,0,No,Yes,48,Yes,No phone service,Fiber optic,Yes,No,Yes,No internet service,No,Yes,Month-to-month,Yes,Mailed check,97.27137188266764,4664.0240900764475,Yes
+1111-B492,Male,0,No,Yes,63,Yes,No,Fiber optic,Yes,Yes,No,No internet service,No,No,One year,No,Bank transfer (automatic),93.87042164802934,5903.949666637379,No
+4858-B871,Female,1,No,Yes,60,No,No phone service,Fiber optic,No,No,No internet service,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),39.2384618504906,2345.969664905563,No
+5374-B409,Male,0,No,Yes,28,Yes,No,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Electronic check,38.02740842597584,1055.0482991300198,Yes
+1187-B769,Female,0,No,No,38,No,No phone service,DSL,Yes,No,No internet service,No,Yes,No internet service,Two year,Yes,Bank transfer (automatic),82.82928153835634,3153.2468033964933,No
+6890-C341,Male,1,No,No,25,Yes,No,Fiber optic,Yes,No,No internet service,No internet service,No,No,Month-to-month,Yes,Bank transfer (automatic),64.28731031241091,1610.2437835148528,Yes
+2017-C221,Female,0,Yes,Yes,16,Yes,No phone service,DSL,No,No,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),97.87514030975568,1566.2735834379093,No
+8625-B263,Female,1,Yes,Yes,70,No,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No internet service,Yes,One year,No,Credit card (automatic),20.675344258601637,1466.6967502107136,No
+7642-C614,Male,0,No,No,12,No,Yes,No,No,No internet service,No,Yes,Yes,Yes,Month-to-month,Yes,Mailed check,79.59639200643738,945.8997509778044,Yes
+6095-C220,Female,0,No,No,68,No,No phone service,DSL,Yes,No,Yes,No,No,Yes,Month-to-month,No,Mailed check,91.68253723010753,6245.600299799845,No
+5833-B729,Male,1,Yes,No,25,No,No phone service,No,Yes,Yes,No internet service,Yes,No internet service,No,Month-to-month,No,Electronic check,118.08530425888124,2949.532304727153,Yes
+4618-A236,Female,0,Yes,No,48,Yes,Yes,Fiber optic,Yes,Yes,Yes,Yes,Yes,Yes,Month-to-month,Yes,Credit card (automatic),86.4675602708031,4152.014539847952,Yes
+8834-A565,Female,0,Yes,Yes,66,Yes,No,Fiber optic,No,No,Yes,No,Yes,No internet service,One year,Yes,Credit card (automatic),41.55043823327161,2749.040285710534,No
+7121-B818,Male,0,No,Yes,6,Yes,Yes,Fiber optic,No,No internet service,Yes,No,No,Yes,Two year,Yes,Bank transfer (automatic),29.1227125854439,169.96091013574392,No
+9998-B875,Male,0,Yes,Yes,57,No,Yes,DSL,Yes,Yes,No internet service,Yes,No internet service,No,Two year,Yes,Mailed check,82.66213585172957,4701.174765166849,No
+9806-C945,Male,0,No,Yes,48,Yes,No,No,No internet service,No internet service,No,Yes,No,Yes,One year,Yes,Electronic check,70.8298982855807,3390.9173593976234,No
+4578-A796,Female,0,No,Yes,52,No,No phone service,DSL,No,Yes,No internet service,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),108.61410148872415,5626.87043924332,No
+2341-C557,Male,1,Yes,No,64,Yes,No,DSL,No,No,Yes,Yes,Yes,No,Month-to-month,Yes,Bank transfer (automatic),91.27410612871813,5847.610753811173,No
+9653-C470,Female,0,No,Yes,61,No,No phone service,Fiber optic,Yes,No internet service,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Electronic check,69.47911622928338,4244.053486252887,No
+2279-C214,Female,0,No,No,16,Yes,No phone service,No,No internet service,Yes,Yes,No,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),58.81074181189734,956.8083745512812,No
+2011-C617,Male,0,No,Yes,42,Yes,No,Fiber optic,Yes,No,No,Yes,No internet service,Yes,Month-to-month,Yes,Electronic check,58.88965730686744,2477.5148959791195,Yes
+4312-C649,Male,0,No,Yes,24,No,Yes,DSL,No,No,No internet service,No,No internet service,Yes,Two year,No,Credit card (automatic),40.99358075819907,990.3981856710413,No
+3455-A435,Female,0,Yes,Yes,2,Yes,No,Fiber optic,No,No,No,Yes,No internet service,No internet service,Two year,No,Electronic check,19.991260161447553,39.16705676420153,No
+9525-B219,Female,1,Yes,Yes,28,No,No phone service,No,Yes,No internet service,No internet service,No,No,No internet service,Month-to-month,Yes,Credit card (automatic),76.02851411481417,2133.4471874229575,No
+4365-C697,Male,0,No,Yes,31,Yes,No,Fiber optic,Yes,No internet service,Yes,No,No internet service,No,One year,No,Credit card (automatic),39.59768061858313,1238.4240285126762,No
+9008-A622,Male,0,No,No,25,Yes,No,No,No internet service,No,No,Yes,No internet service,No,Month-to-month,No,Electronic check,39.18685523166816,981.4861029602904,Yes
+8298-A564,Male,0,Yes,No,15,No,No phone service,No,No internet service,No internet service,Yes,Yes,Yes,No,One year,No,Credit card (automatic),30.85081348198629,457.54988665140684,No
+3161-C525,Male,0,No,No,24,No,Yes,Fiber optic,No,Yes,No,No,No internet service,No internet service,One year,No,Credit card (automatic),37.30434676275762,893.1020599605677,No
+8484-C159,Male,0,Yes,Yes,53,Yes,No,DSL,No internet service,No,No internet service,No,Yes,No internet service,Month-to-month,No,Credit card (automatic),21.444809530291337,1144.093541137776,No
+8575-C926,Female,0,No,Yes,27,Yes,No phone service,Fiber optic,No internet service,No,No,No,No,No internet service,Month-to-month,No,Electronic check,86.01026069972747,2317.3644048298834,Yes
+6049-C122,Female,0,No,No,72,Yes,No phone service,DSL,No,No internet service,No,No internet service,No,No,Two year,Yes,Electronic check,58.590410189425775,4227.4001969003675,No
+7487-B936,Female,0,Yes,Yes,55,Yes,No,DSL,No,No,No internet service,Yes,No internet service,No internet service,One year,Yes,Credit card (automatic),74.68322217670108,4126.663198435466,No
+1049-C323,Female,0,Yes,Yes,64,Yes,Yes,Fiber optic,No,Yes,No internet service,No internet service,No,No,Two year,No,Credit card (automatic),82.26424061109036,,No
+2196-A533,Male,0,Yes,No,40,Yes,No,DSL,No,No internet service,No internet service,No internet service,No internet service,No,Two year,No,Electronic check,115.984698508754,4646.859299382247,No
+6644-C165,Male,0,Yes,Yes,50,No,Yes,DSL,Yes,No internet service,No,Yes,No,Yes,Two year,Yes,Bank transfer (automatic),25.11071951847785,1259.0122985344676,No
+9866-A170,Male,0,No,No,70,No,Yes,Fiber optic,No,No,Yes,Yes,No internet service,Yes,Month-to-month,No,Credit card (automatic),60.25072732555952,4209.782217953345,No
+8734-A393,Female,0,Yes,Yes,28,No,Yes,Fiber optic,No,No,No,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),42.96274231941135,1194.2809652831536,Yes
+7698-A887,Female,0,No,No,18,Yes,Yes,Fiber optic,No,No,No,Yes,Yes,No,Month-to-month,No,Electronic check,66.15954915160982,1182.0956608274819,No
+3218-C846,Male,0,Yes,Yes,65,Yes,No,DSL,No internet service,No internet service,Yes,No,Yes,Yes,Month-to-month,No,Credit card (automatic),110.75746621169576,7204.78262444871,No
+7887-B491,Male,0,Yes,Yes,40,Yes,No phone service,No,No,No,No internet service,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),91.0104186574392,3636.5221174246976,Yes
+8348-B484,Female,0,No,No,44,No,No phone service,DSL,Yes,Yes,No,No internet service,Yes,Yes,One year,Yes,Electronic check,84.77593344122928,3729.8511474949014,No
+2314-C777,Female,1,Yes,Yes,14,No,No phone service,No,Yes,No,Yes,No internet service,No internet service,No internet service,One year,Yes,Bank transfer (automatic),62.595210581333326,880.5195124451952,No
+9835-A769,Male,0,Yes,Yes,2,Yes,No phone service,Fiber optic,No,No,No internet service,Yes,No,No,Month-to-month,No,Mailed check,85.6968060866308,162.98939929067592,No
+6697-A282,Male,0,Yes,No,10,Yes,No phone service,No,Yes,No internet service,No internet service,Yes,No internet service,Yes,Two year,Yes,Electronic check,21.503725416078012,210.01801616450018,No
+9802-B641,Female,1,Yes,Yes,52,No,No phone service,Fiber optic,No internet service,No,No,No internet service,Yes,No internet service,Month-to-month,No,Mailed check,77.1669865390044,4015.912128044521,Yes
+3086-C328,Male,0,No,No,45,No,No,Fiber optic,No,No internet service,No internet service,No internet service,Yes,No internet service,Month-to-month,No,Electronic check,73.90454454122445,3322.795965664007,No
+1056-A405,Male,0,No,Yes,29,No,Yes,No,Yes,No,No internet service,No,No,No internet service,One year,No,Electronic check,53.08736341230088,1537.5590286411496,No
+8585-C836,Male,0,Yes,Yes,56,Yes,No phone service,Fiber optic,Yes,Yes,Yes,No,Yes,Yes,One year,No,Credit card (automatic),38.502169605122894,2145.794947723915,No
+9920-B644,Female,0,Yes,Yes,17,Yes,No,No,No,Yes,Yes,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,99.40933287542975,1688.1195437088186,No
+7214-A353,Female,0,Yes,Yes,50,Yes,No phone service,Fiber optic,Yes,No internet service,No internet service,No,No internet service,No,Month-to-month,No,Mailed check,23.663142502737195,1199.6788249155384,Yes
+8546-B258,Female,1,No,No,47,No,No phone service,DSL,No,No internet service,Yes,Yes,No internet service,No internet service,One year,No,Mailed check,25.25212287457057,1182.3862500528073,No
+5516-A996,Female,0,No,Yes,65,No,Yes,DSL,Yes,No,No internet service,Yes,No internet service,No internet service,Month-to-month,No,Electronic check,62.52243527040673,,No
+2848-A928,Female,0,No,No,7,Yes,Yes,Fiber optic,No internet service,No,No,Yes,No internet service,No internet service,Month-to-month,No,Mailed check,43.631732014564804,,Yes
+7868-C884,Female,0,No,Yes,21,Yes,Yes,Fiber optic,Yes,Yes,Yes,No,No,No internet service,One year,Yes,Mailed check,93.16796755745555,1961.7608680249828,No
+1256-A311,Female,1,Yes,Yes,5,No,No phone service,No,Yes,No,No internet service,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),81.98610273057969,412.0566980780745,Yes
+2102-A708,Male,0,Yes,Yes,56,Yes,No phone service,DSL,No,Yes,No internet service,No internet service,Yes,Yes,Month-to-month,Yes,Bank transfer (automatic),95.88974701072647,5356.639412942357,No
+1550-B712,Male,0,Yes,Yes,35,No,No phone service,No,Yes,No internet service,Yes,No,Yes,No,Month-to-month,Yes,Bank transfer (automatic),50.880235111949005,1769.0420920862346,No
+1797-A858,Male,0,No,No,56,No,Yes,Fiber optic,No,No,Yes,No internet service,Yes,No,Two year,No,Mailed check,92.67215343159567,5174.267403671387,No
+1724-B549,Male,0,Yes,No,48,Yes,No,Fiber optic,No internet service,No internet service,No,Yes,Yes,Yes,Two year,Yes,Mailed check,104.91147522065309,5040.0661256028525,No
+4839-C322,Male,1,No,No,44,No,No phone service,No,No,No,No internet service,No internet service,No,No internet service,Month-to-month,No,Mailed check,52.95008668906646,2340.0025036039415,No
+1924-A615,Male,1,No,No,65,Yes,No phone service,Fiber optic,No,Yes,No,No,Yes,Yes,Month-to-month,No,Mailed check,52.40953002676425,3411.2721278073977,Yes
+5739-A935,Male,0,Yes,Yes,44,No,No phone service,DSL,Yes,No internet service,No,No internet service,No,Yes,Month-to-month,No,Bank transfer (automatic),108.69511609259584,4802.084132051384,No
+6224-C712,Female,1,Yes,No,19,No,No,No,No internet service,No internet service,No,Yes,Yes,No,Month-to-month,No,Credit card (automatic),23.25392044536477,437.40545183027655,No
+6253-A409,Female,0,Yes,No,63,Yes,No phone service,DSL,No,No,Yes,Yes,No,Yes,Month-to-month,Yes,Electronic check,53.44403527594986,3363.737527971493,No
+3347-C633,Male,1,No,Yes,66,No,No,DSL,Yes,No internet service,No,No,No,No internet service,One year,Yes,Mailed check,30.176585453216312,1992.7202588262253,No
+4621-B407,Male,0,No,Yes,2,Yes,No phone service,DSL,Yes,Yes,Yes,No,No,No,Month-to-month,No,Mailed check,21.16254932012261,40.03011448281208,Yes
+5508-A670,Female,0,Yes,Yes,53,Yes,No,No,No,No internet service,Yes,No,Yes,No internet service,Month-to-month,Yes,Bank transfer (automatic),29.59337647350562,1573.436062194296,No
+3869-C795,Male,0,Yes,Yes,63,No,No phone service,Fiber optic,Yes,No internet service,No,Yes,No,No,Month-to-month,Yes,Mailed check,61.590202013617834,3873.786517468536,No
+7999-C607,Male,0,No,No,39,Yes,Yes,DSL,No,No,No,No internet service,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),87.28908495739297,3390.327069888901,No
+1768-B758,Female,0,Yes,No,58,Yes,Yes,DSL,No,No internet service,No internet service,No internet service,No internet service,Yes,Month-to-month,No,Credit card (automatic),47.322883656417275,2726.833846282286,Yes
+7244-C426,Male,0,No,Yes,54,Yes,Yes,DSL,No,No,No,No,Yes,Yes,Month-to-month,Yes,Mailed check,103.64236839381303,5601.493019503558,No
+7821-B252,Female,0,No,Yes,61,Yes,Yes,Fiber optic,No internet service,No,No internet service,No internet service,No internet service,Yes,One year,Yes,Bank transfer (automatic),62.230370688204175,3790.79350077436,No
+5913-B288,Male,0,Yes,Yes,3,Yes,No phone service,Fiber optic,No,No internet service,No,No internet service,No internet service,No internet service,One year,Yes,Mailed check,115.55691912165523,334.9753475604539,No
+9813-B346,Female,0,Yes,No,59,Yes,Yes,No,Yes,Yes,No,No,No internet service,No,Month-to-month,No,Mailed check,114.14264477909185,6728.225451266428,No
+4692-B978,Female,0,Yes,No,29,No,No,Fiber optic,No internet service,No,No,No,Yes,No,One year,Yes,Bank transfer (automatic),95.96426037801491,2802.4888699883873,No
+3365-B159,Female,1,Yes,Yes,1,Yes,Yes,No,Yes,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Credit card (automatic),111.95675236273513,100.84781843437318,No
+7761-B670,Male,0,No,Yes,61,No,Yes,No,No internet service,No,No internet service,Yes,No internet service,Yes,Month-to-month,No,Electronic check,89.31315565419172,5455.374410209192,No
+9683-A497,Female,0,No,No,48,No,Yes,No,No internet service,Yes,No internet service,Yes,Yes,No internet service,One year,Yes,Mailed check,108.25611059411372,5200.504244231951,No
+4978-B308,Male,0,No,Yes,8,Yes,No phone service,No,No internet service,Yes,No,Yes,No,No,Month-to-month,No,Credit card (automatic),42.01560859531381,349.53919694264187,Yes
+6411-C180,Male,1,Yes,Yes,30,No,Yes,No,No internet service,No,No,No internet service,No internet service,No internet service,One year,No,Mailed check,52.96473011776826,1587.7109748169066,No
+8369-B194,Male,0,No,No,60,No,No,DSL,Yes,Yes,No internet service,No internet service,Yes,No,One year,No,Electronic check,93.91947163348858,5619.564854025008,No
+9775-C949,Male,0,Yes,Yes,47,Yes,Yes,Fiber optic,No,No internet service,Yes,Yes,Yes,Yes,Two year,No,Bank transfer (automatic),60.91840443975899,2873.0904617164797,No
+4120-A374,Female,0,Yes,No,24,Yes,Yes,DSL,Yes,No internet service,Yes,Yes,No internet service,No internet service,Two year,No,Credit card (automatic),102.40140709936405,2455.135547233609,No
+7179-C719,Female,1,Yes,Yes,35,Yes,Yes,No,No,No,Yes,No,Yes,No,Month-to-month,No,Electronic check,106.4527065945714,3738.5893621081186,Yes
+1647-A292,Male,0,Yes,Yes,7,No,No,Fiber optic,Yes,Yes,No internet service,No internet service,No internet service,No,Two year,Yes,Mailed check,48.37281321445295,346.76938143428754,No
+4555-B313,Male,0,Yes,No,72,No,Yes,DSL,No internet service,No internet service,No internet service,No internet service,Yes,No,One year,No,Electronic check,101.00680622305214,7282.448743983559,No
+6455-B115,Female,0,Yes,No,57,Yes,No,DSL,No internet service,No internet service,Yes,Yes,No,No,One year,Yes,Credit card (automatic),33.75355924204758,1947.6376938899657,No
+4470-A859,Male,1,No,Yes,44,Yes,No,No,No,No internet service,Yes,No internet service,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),51.836769509453326,2283.637838864906,No
+2922-C872,Female,0,Yes,No,61,No,Yes,DSL,No,No,No,No,No,No,Two year,No,Mailed check,70.30547758769958,4303.062683547788,No
+8846-A812,Male,0,No,Yes,38,No,No,DSL,Yes,No,No internet service,No,No internet service,No,Month-to-month,Yes,Bank transfer (automatic),41.00759809144117,1554.2402721344672,No
+4350-B345,Male,1,No,Yes,57,No,No phone service,DSL,No,No internet service,No internet service,No internet service,Yes,Yes,Two year,Yes,Bank transfer (automatic),76.46641687230752,4363.992875688185,No
+6269-B489,Female,0,Yes,No,63,No,Yes,DSL,Yes,No internet service,Yes,Yes,No,No,Month-to-month,Yes,Electronic check,76.40885541112348,4808.735183705061,No
+8639-C764,Male,0,Yes,Yes,43,Yes,Yes,DSL,No,Yes,Yes,No internet service,Yes,No internet service,One year,No,Electronic check,39.04374093251603,1683.6732584887657,No
+6886-B367,Female,0,Yes,Yes,28,No,No,No,No,Yes,No internet service,No,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),98.2119551609884,2753.6827994804094,No
+6892-C609,Male,0,No,No,58,No,No,No,No,Yes,No,Yes,No internet service,No,Month-to-month,Yes,Credit card (automatic),81.73027118585543,4719.750063344554,Yes
+8635-A922,Male,0,Yes,No,70,No,Yes,DSL,No internet service,No,Yes,No internet service,No internet service,Yes,Month-to-month,No,Bank transfer (automatic),50.1849309359079,3506.8278865769853,No
+8692-B308,Male,0,No,Yes,8,No,No phone service,No,No internet service,No internet service,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Credit card (automatic),41.58457073876434,334.9797229588382,No
+7073-B523,Female,0,Yes,No,5,Yes,No,No,Yes,No,No internet service,Yes,No internet service,Yes,Month-to-month,Yes,Bank transfer (automatic),106.5643889528666,510.2480149422232,No
+1749-C984,Male,0,Yes,No,28,Yes,No,Fiber optic,No,No internet service,No,No,No,No,Month-to-month,Yes,Mailed check,102.2420956450776,2861.820234355121,No
+4625-C249,Male,1,No,No,57,No,No phone service,DSL,Yes,Yes,No,Yes,No internet service,No,One year,No,Bank transfer (automatic),41.3409478229804,2366.518728808279,No
+1265-B666,Male,0,No,No,16,No,No phone service,No,No,Yes,Yes,No internet service,Yes,No internet service,Two year,Yes,Credit card (automatic),21.828325264909132,362.25566907080315,No
+7841-B256,Male,1,Yes,Yes,15,Yes,Yes,No,No internet service,Yes,Yes,Yes,No,Yes,One year,Yes,Credit card (automatic),99.10552587218395,1478.7584409459748,No
+4214-B335,Female,0,No,Yes,2,Yes,No phone service,DSL,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),80.10860980413683,173.86128134375235,Yes
+7223-C953,Female,1,No,Yes,20,No,Yes,Fiber optic,No,No internet service,No internet service,No internet service,No internet service,No,Month-to-month,No,Electronic check,28.3886438193727,579.85404151915,Yes
+5026-B663,Male,0,No,No,63,No,No phone service,DSL,No,Yes,Yes,No,Yes,No,Month-to-month,No,Bank transfer (automatic),77.27949972499896,4847.1295757025455,No
+6530-B881,Female,0,No,No,35,Yes,No,Fiber optic,No internet service,No internet service,No internet service,No,No,Yes,Two year,Yes,Bank transfer (automatic),63.69435987885027,2230.460514889603,No
+9005-C757,Male,0,No,No,61,Yes,Yes,DSL,No internet service,No internet service,Yes,No internet service,No,Yes,Two year,No,Electronic check,96.092307911106,5863.895074689586,No
+9037-B272,Male,1,Yes,No,41,Yes,Yes,DSL,Yes,No,No,No internet service,No,No internet service,Month-to-month,No,Mailed check,39.26302663695237,1624.9720442939745,No
+6770-A243,Male,0,Yes,No,41,Yes,Yes,DSL,No internet service,Yes,No,No,Yes,Yes,Month-to-month,No,Electronic check,63.79225280265516,2618.3462145181124,No
+9954-B288,Female,0,No,No,60,Yes,No phone service,DSL,No,Yes,No internet service,Yes,No,No,Two year,Yes,Credit card (automatic),33.952533482317634,,No
+9882-C160,Female,0,Yes,No,12,Yes,No,Fiber optic,Yes,No,No,No internet service,Yes,No internet service,Two year,No,Electronic check,114.48148639499009,1365.97001988591,No
+9584-A959,Female,0,Yes,Yes,10,No,Yes,Fiber optic,No,No internet service,No internet service,Yes,No internet service,Yes,Two year,No,Credit card (automatic),96.513184770979,949.1513551758013,No
+2217-C149,Female,0,No,Yes,53,Yes,Yes,No,Yes,Yes,No internet service,No internet service,No internet service,Yes,Two year,No,Credit card (automatic),92.29060386339034,4884.923622883468,No
+1104-B240,Female,0,Yes,No,15,Yes,Yes,DSL,No,No internet service,No,No,Yes,Yes,Month-to-month,No,Bank transfer (automatic),87.6157698345906,1330.006431885662,No
+4791-A824,Female,0,No,No,7,Yes,Yes,Fiber optic,No internet service,No,No internet service,Yes,No,Yes,Month-to-month,No,Bank transfer (automatic),60.79531246787136,434.82638107516397,Yes
+3474-A323,Female,0,No,No,58,Yes,No,Fiber optic,No,No internet service,No,Yes,Yes,No,Month-to-month,Yes,Mailed check,111.03988277816605,6463.537815470033,Yes
+9285-B482,Female,0,Yes,Yes,56,No,No phone service,Fiber optic,Yes,Yes,Yes,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),25.57815969866404,1417.943648671085,No
+1990-C753,Female,0,No,Yes,39,No,No,DSL,No,No internet service,Yes,Yes,Yes,No,Month-to-month,No,Bank transfer (automatic),98.97753670373466,3870.5371512425872,No
+8916-C599,Male,0,No,No,58,Yes,Yes,No,Yes,No internet service,No,No internet service,No internet service,No,Month-to-month,No,Credit card (automatic),39.88088957662613,2320.64025744205,No
+1257-A644,Female,0,No,No,1,No,No,Fiber optic,No,Yes,No,No,Yes,No,Month-to-month,No,Mailed check,50.814809541201726,47.961642169572116,Yes
+7739-A117,Female,0,No,Yes,9,No,Yes,DSL,No internet service,Yes,No,Yes,No internet service,No internet service,Month-to-month,Yes,Credit card (automatic),70.45268776121449,641.8334657675578,Yes
+9673-C381,Female,0,No,Yes,43,No,No phone service,Fiber optic,No internet service,No internet service,No,No internet service,Yes,No,Month-to-month,Yes,Mailed check,96.90682861108574,4168.393278385922,Yes
+9777-B117,Female,0,Yes,Yes,10,No,No phone service,Fiber optic,No,No internet service,Yes,Yes,No internet service,Yes,Month-to-month,Yes,Mailed check,102.52275821920053,1029.8306573474204,Yes
+9228-C790,Female,0,Yes,Yes,1,No,No phone service,No,No,No,No internet service,No internet service,Yes,No internet service,Month-to-month,Yes,Mailed check,76.91509114109255,83.72059045112837,Yes
+8054-A209,Female,0,No,No,49,No,Yes,Fiber optic,No,Yes,No internet service,No internet service,Yes,Yes,Two year,No,Bank transfer (automatic),58.75506663793586,2888.799358211408,No
+2578-C252,Female,0,No,Yes,11,Yes,No,Fiber optic,Yes,No internet service,Yes,No internet service,No,No,Two year,No,Electronic check,113.37349335102262,1247.9765435228528,No
+4948-A734,Female,0,Yes,Yes,22,Yes,No phone service,DSL,No,Yes,No internet service,No,No,Yes,Month-to-month,No,Electronic check,43.02539023185652,964.3319456469721,No
+9625-B934,Female,0,No,No,17,Yes,Yes,DSL,No,No,Yes,Yes,Yes,No internet service,Month-to-month,No,Bank transfer (automatic),98.96100487600386,1680.1798296431143,Yes
+6807-B914,Female,0,Yes,Yes,61,Yes,Yes,No,Yes,No internet service,No internet service,No,Yes,No internet service,Month-to-month,Yes,Credit card (automatic),79.76098695553941,4884.257780494786,No
+7502-A482,Female,0,No,Yes,61,Yes,No,DSL,No internet service,No internet service,No,No internet service,Yes,Yes,One year,No,Bank transfer (automatic),56.12794919696398,3412.5264617303787,No
+7652-B678,Male,0,No,Yes,37,No,No phone service,DSL,No,No internet service,No,No internet service,Yes,Yes,Month-to-month,Yes,Credit card (automatic),18.38748242853545,670.4862546090189,No
+4984-C331,Male,0,No,No,66,Yes,Yes,No,No,Yes,No,No,No,Yes,Month-to-month,Yes,Mailed check,63.13322978553699,4157.528063191883,No
+5914-C947,Female,0,No,Yes,37,Yes,No,Fiber optic,No internet service,No,Yes,No,No internet service,No internet service,Two year,No,Bank transfer (automatic),46.06035975300108,1713.801918678297,No
+2320-C978,Female,0,No,No,66,No,No phone service,No,No internet service,Yes,Yes,Yes,Yes,No,Month-to-month,Yes,Electronic check,28.73683463921884,1888.5764709953714,No
+1519-A515,Male,1,No,No,60,No,No,DSL,Yes,No internet service,No internet service,No internet service,No,Yes,Month-to-month,Yes,Credit card (automatic),25.803435816477528,1563.107402594687,No
