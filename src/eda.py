@@ -1,4 +1,5 @@
 import pandas as pd
+import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 import os
@@ -61,7 +62,7 @@ def perform_eda(filepath="telco_churn_data.csv"):
     corr = df[numeric_cols].corr()
 
     plt.figure(figsize=(10, 8))
-    mask = pd.triu(pd.ones_like(corr, dtype=bool))
+    mask = np.triu(np.ones_like(corr, dtype=bool))
     sns.heatmap(corr, mask=mask, annot=True, cmap='RdBu', fmt=".2f", 
                 linewidths=0.5, cbar_kws={"shrink": .8}, vmin=-1, vmax=1)
     plt.title('Correlation Heatmap', fontsize=16, fontweight='bold', pad=20)
